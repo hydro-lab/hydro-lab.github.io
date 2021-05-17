@@ -1,7 +1,7 @@
 # Duquesne Hydrology Lab
 ## Research Programs  
 - [Water Quality and Quantity in the Limpopo Basin](http://www.duq.edu/limpopo)
-- Pure Thirst
+- Pure Thirst  
 ## Research Projects  
 - Remote sensing of river gage  
 - Groundwater trends by remote sensing  
