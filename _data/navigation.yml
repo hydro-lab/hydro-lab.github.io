@@ -2,7 +2,9 @@
   link: /
 - name: Research
   link: /research.md
+- name: Principal Investigator
+  link: pi.md
 - name: Students
   link: /students.md
 - name: Blog
-  link: /post.html
+  link: /blog.html
