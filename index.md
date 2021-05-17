@@ -7,4 +7,4 @@
 - Fluoride removal  
 - Pump-and-treat groundwater remediation  
 
-{% include footer.html %}
+{% include footer.md %}
