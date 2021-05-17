@@ -1,4 +1,8 @@
 - name: Home
   link: /
+- name: Research
+  link: /research.md
 - name: Students
   link: /students.md
+- name: Blog
+  link: /post.html
