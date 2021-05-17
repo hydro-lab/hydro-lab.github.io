@@ -5,7 +5,7 @@ title: Students
 # Students  
 ## Graduate Students  
 Alanna Bachtlin  
-[](https://duq.box.com/shared/static/tb3vouzzd5zaz2xah0959c9c9ja1pjga.jpg)Sophia Bakar  
+![](https://duq.box.com/shared/static/tb3vouzzd5zaz2xah0959c9c9ja1pjga.jpg)Sophia Bakar  
 Hannah Enderby  
 Mackenzie Martin  
 Gabi Zuccolotto  
