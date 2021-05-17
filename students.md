@@ -1,3 +1,7 @@
+---
+layout: default
+title: Students
+---
 # Students  
 ## Graduate Students  
 Alanna Bachtlin  
