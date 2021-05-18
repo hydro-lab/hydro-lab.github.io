@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Resources
+title: Resources
 ---
 # Research Resources  
 ## Meteorological Data  
