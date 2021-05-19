@@ -24,11 +24,11 @@
         
         {% for item in site.data.pages.toc %}
             <h3>{{ item.title }}</h3>
-            <ul>
+            <p>
                   {% for entry in item.sub %}
-                  <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+                  <a href="{{ entry.url }}">{{ entry.page }}</a><br>
                   {% endfor %}
-            </ul>
+            </p>
         {% endfor %}
       
       <p>&nbsp;</p>
