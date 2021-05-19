@@ -21,13 +21,15 @@
         {% endif %}
 
         <p>{{ site.description }}</p>
-
-      <ul class="view">
-            {% assign mypages = site.pages %}
-            {% for page in mypages %}
-            <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-            {% endfor %}
-      </ul>
+        
+        {% for item in site.data.pages.toc %}
+            <h3>{{ item.title }}</h3>
+            <ul>
+                  {% for entry in item.sub %}
+                  <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+                  {% endfor %}
+            </ul>
+        {% endfor %}
       
       <p>&nbsp;</p>
 

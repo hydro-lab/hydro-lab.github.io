@@ -1,0 +1,21 @@
+toc:
+- title: People
+      sub:
+      - page: Principal Investigator
+        url: /pi.md
+      - page: Students
+        url: /students.md
+      - page: Prospective Students
+        url: /prospective.md
+- title: Research
+      sub:
+      - page: Overview
+        url: /research.md
+      - name: Research - Transboundary Water Resources
+        url: /tb_water_res.md
+      - name: Research - Defluoridation
+        url: /fluoride.md
+      - name: Research - Groundwater Remediation
+        url: /groundwater.md
+      - name: Resources
+        url: /research_res.md
