@@ -11,11 +11,11 @@ toc:
   sub:
       - page: Overview
         url: /research.md
-      - name: Transboundary Water Resources
+      - page: Transboundary Water Resources
         url: /tb_water_res.md
-      - name: Defluoridation
+      - page: Defluoridation
         url: /fluoride.md
-      - name: Groundwater Remediation
+      - page: Groundwater Remediation
         url: /groundwater.md
-      - name: Resources
+      - page: Resources
         url: /research_res.md
