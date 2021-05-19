@@ -22,12 +22,12 @@
 
         <p>{{ site.description }}</p>
 
-      <ul><div class="sidebar">
+      <ul class="view">
             {% assign mypages = site.pages %}
             {% for page in mypages %}
             <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
             {% endfor %}
-      </div></ul>
+      </ul>
       
       <p>&nbsp;</p>
 
