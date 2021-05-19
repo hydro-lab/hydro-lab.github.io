@@ -2,20 +2,20 @@ toc:
 - title: People
   sub:
       - page: Principal Investigator
-        url: /pi.md
+        url: /pi.html
       - page: Students
-        url: /students.md
+        url: /students.html
       - page: Prospective Students
-        url: /prospective.md
+        url: /prospective.html
 - title: Research
   sub:
       - page: Overview
-        url: /research.md
+        url: /research.html
       - page: Transboundary Water Resources
-        url: /tb_water_res.md
+        url: /tb_water_res.html
       - page: Defluoridation
-        url: /fluoride.md
+        url: /fluoride.html
       - page: Groundwater Remediation
-        url: /groundwater.md
+        url: /groundwater.html
       - page: Resources
-        url: /research_res.md
+        url: /research_res.html
