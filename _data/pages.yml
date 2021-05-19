@@ -1,6 +1,6 @@
 toc:
 - title: People
-      sub:
+  sub:
       - page: Principal Investigator
         url: /pi.md
       - page: Students
@@ -8,7 +8,7 @@ toc:
       - page: Prospective Students
         url: /prospective.md
 - title: Research
-      sub:
+  sub:
       - page: Overview
         url: /research.md
       - name: Research - Transboundary Water Resources
