@@ -3,7 +3,8 @@ layout: default
 title: Research - Transboundary Water Resources
 ---
 # Transboundary Water Resources
-## part of the [WaterQ2](http://www.duq.edu/limpopo) project
+*part of the [WaterQ2](http://www.duq.edu/limpopo) project*  
+
 Safe drinking water is needed for a healthy population.  Furthermore, access to water resources is needed for economic development.  The International Covenant on Human Rights has declared potable water as a human right, which was clarified in General Comment no. 15.  The right to water is recognized by section 27 (1)(b) of the South African Constitution and South Africa has defined concrete minimum standards for safe drinking water in the Water Services Act 108 of 1997, and in regulations passed under the terms of this Act.  
 
 [Video of the sediment-rich wet season flow past the intake for the local water treatment facility.  The sediments may cause a treatment challenge as well as maintenance issues.](https://youtu.be/TaOFtahfC1Q)  
