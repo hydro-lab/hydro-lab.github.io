@@ -18,6 +18,7 @@ title: Research
 - Turbulent mixing in natrual channels  
 
 # Theses  
+- Lange, C. L. (2021). Air Pollution in the Steel City: Assessing the Influence of COVID-19 on Air Pollution in Allegheny County (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1982](https://dsc.duq.edu/etd/1982) 
 - Okular, K. (2020). Fluoride Removal with Augmented Bentonite in Drinking Water and Community Perceptions in Arusha, Tanzania (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1945](https://dsc.duq.edu/etd/1945/)  
 
 
