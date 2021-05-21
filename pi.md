@@ -8,6 +8,7 @@ title: Principal Investigator
 
 - kahlerd (at) duq (dot) edu
 - [Duquesne Faculty Website](https://duq.edu/academics/faculty/david-m-kahler)
+- [LinkedIn](https://www.linkedin.com/in/davidmkahler/)
 - [Research Gate](https://www.researchgate.net/profile/David-M-Kahler)
 - [Google Scholar](https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-8941-6402)
