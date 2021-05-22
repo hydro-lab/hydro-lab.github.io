@@ -21,9 +21,9 @@ toc:
         url: /groundwater.html
       - page: Resources
         url: /research_res.html
-- title: Groups
+- title: Student
   sub:
       - page: Pure Thirst
         url: /purethirst.html
-      - page: CCS
-        url: /ccs.html
+      - page: Courses
+        url: /courses.html
