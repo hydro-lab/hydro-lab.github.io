@@ -3,6 +3,7 @@ layout: default
 title: Research
 ---
 # Research 
+Undergraduate students have several opportunities to do research.  Students should discuss potential research activities with faculty During the semester, any undergraduate student can enroll in ENVI 390: Undergraduate Research
 
 ## [WaterQ2](http://www.duq.edu/limpopo): Water Quality and Quantity in the Limpopo Basin
 - Remote sensing of river gage  
@@ -15,10 +16,10 @@ title: Research
 ## Other projects  
 - Air quality during COVID in Pittsburgh
 - Pump-and-treat groundwater remediation  
-- Turbulent mixing in natrual channels  
+- Turbulent mixing in natural channels  
 
 # Theses  
-- Lange, C. L. (2021). Air Pollution in the Steel City: Assessing the Influence of COVID-19 on Air Pollution in Allegheny County (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1982](https://dsc.duq.edu/etd/1982) 
+- Lange, C. L. (2021). Air Pollution in the Steel City: Assessing the Influence of COVID-19 on Air Pollution in Allegheny County (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1982](https://dsc.duq.edu/etd/1982)  
 - Okular, K. (2020). Fluoride Removal with Augmented Bentonite in Drinking Water and Community Perceptions in Arusha, Tanzania (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1945](https://dsc.duq.edu/etd/1945/)  
 
 
