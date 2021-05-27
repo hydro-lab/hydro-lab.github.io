@@ -2,6 +2,12 @@
 layout: default
 title: Research - Water Resources Engineering
 ---
+# Water Resources Engineering  
+## Limpopo River Basin  
+Through a partnership with University of Venda in Limpopo, South Africa, the research team has setup weather stations and a stream gage in the Soutpansburg Mountain area.  
+![](https://duq.box.com/shared/static/8ujeef6twd1z4wt8uwun1ciovsr3e82n.jpg)  
+Drs. Kahler (left) and Edokpayi (right) in front of a weather station set up at a primary school in Limpopo, South Africa.  Data from the station will support research in the region and STEM outreach at the school.  
+
 # Transboundary Water Resources
 *part of the [WaterQ2](http://www.duq.edu/limpopo) project*  
 
