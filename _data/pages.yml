@@ -7,6 +7,8 @@ toc:
         url: /students.html
       - page: Prospective Students
         url: /prospective.html
+      - page: Pure Thirst
+        url: /purethirst.html
 - title: Research
   sub:
       - page: Overview
@@ -21,9 +23,3 @@ toc:
         url: /groundwater.html
       - page: Resources
         url: /research_res.html
-- title: Groups
-  sub:
-      - page: Pure Thirst
-        url: /purethirst.html
-      - page: Courses
-        url: /courses.html

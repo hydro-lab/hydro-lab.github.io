@@ -7,12 +7,13 @@ title: Principal Investigator
 ![](https://duq.box.com/shared/static/8km4k3p9z3iu77mpf2nkl0vou6u0x8rv.jpg)
 
 - kahlerd (at) duq (dot) edu
-- [Duquesne Faculty Website](https://duq.edu/academics/faculty/david-m-kahler)
-- [LinkedIn](https://www.linkedin.com/in/davidmkahler/)
-- [Research Gate](https://www.researchgate.net/profile/David-M-Kahler)
-- [Google Scholar](https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0002-8941-6402)
-- [Twitter](https://twitter.com/DavidMKahler)
+- [Duquesne Faculty Website](https://duq.edu/academics/faculty/david-m-kahler)  
+- [LinkedIn](https://www.linkedin.com/in/davidmkahler/)  
+- [Research Gate](https://www.researchgate.net/profile/David-M-Kahler)  
+- [Google Scholar](https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en)  
+- [ORCID](https://orcid.org/0000-0002-8941-6402)  
+- [Twitter](https://twitter.com/DavidMKahler)  
+- [Courses](courses.html)
 
 Dr. Kahler teaches fundamental environmental science courses at Duquesne University.  His research is in hydrology, primarily for use in international development.  
 
