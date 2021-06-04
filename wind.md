@@ -7,4 +7,6 @@ Small-scale urban wind production offers new opportunities for institutions to p
 - Effective strategies for determining sites for wind gauging and turbine siting;
 - Effective wind types for energy production (ex. long slow wind vs. short powerful gusts);
 - Ideal time of year and of day for wind energy production; and
-- Ideal turbines based on wind resources. 
+- Ideal turbines based on wind resources.  
+
+![Wind rose for Pittsburgh International Airport; wind is mostly from the south and southwest](https://duq.box.com/shared/static/eia53dz1bijrc6a9cxh6v6py7sxdid4x.jpg)
