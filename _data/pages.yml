@@ -7,8 +7,8 @@ toc:
         url: /students.html
       - page: Prospective Students
         url: /prospective.html
-      - page: Pure Thirst
-        url: /purethirst.html
+      - page: Student Groups
+        url: /groups.html
 - title: Research
   sub:
       - page: Overview
@@ -17,9 +17,11 @@ toc:
         url: /tb_water_res.html
       - page: Defluoridation
         url: /fluoride.html
-      - page: Air Quality
-        url: /air.html
       - page: Groundwater Remediation
         url: /groundwater.html
+      - page: Air Quality
+        url: /air.html
+      - page: Wind Turbines
+        url: /wind.html
       - page: Resources
         url: /research_res.html
