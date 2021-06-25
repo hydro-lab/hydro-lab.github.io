@@ -15,4 +15,5 @@ Figure 2: Weather station in Olkokola
 Figure 3: PI and citizen science training on use of photometer to measure fluoride in drinking water.  
 
 # Duquesne Undergraduate Carbon Collection
-[Carbon Capture and Sequestration](https://hannahjgorman4.wixsite.com/duqucc)
+[Carbon Capture and Sequestration](https://hannahjgorman4.wixsite.com/duqucc)  
+![XPRIZE logo](https://duq.box.com/shared/static/9q8bv0v034sgr77ip25a0u4k4ixqae78.png)  
