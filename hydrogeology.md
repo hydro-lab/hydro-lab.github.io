@@ -2,7 +2,8 @@
 layout: default
 title: ENVI 591: Hydrogeology
 ---
-# Syllabus  
+# ENVI 591: Hydrogeology  
+*Syllabus*  
 ## Instructor  
 David Kahler  
 Center for Environmental Research and Education  
