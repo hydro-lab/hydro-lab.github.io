@@ -47,12 +47,11 @@ Students will be able to:
 - Articulate the human right to water as an issue of human dignity in pragmatic, aspirational, and legal terms (both US interpretation and that articulated in UN General Comment 15).  This should include interpretations of justice in theoretical and practical application.  
 - Identify the historical forces that have contributed to the current global systems and these systems’ consequences for humanity and the environment.  In particular, how water security affects, and is affected by, these systems.  
 - Express how social, political, and economic institutions can support or undermine a justly ordered society through the study of one or more of the following: political repression, economic inequality, environmental degradation, or social discrimination on the basis of race, gender, and class.  In particular, how relationship between these institutions and water security.  
+
 ## Evaluation
 - 25% Exam 1  
 - 25% Exam 2  
-- 50% Assignments  
-- - reading quizzes  
-- - projects (individual and group)  
+- 50% Assignments, including reading quizzes and projects (individual and group)  
 
 Homework will be due in class on the due date.  Late homework may only earn half credit and will not be accepted more than three school days late.  Exceptions to any due dates or exams must be arranged well in advance and via e-mail.  See instructor for family or personal emergencies.  
 ## Course Policies
