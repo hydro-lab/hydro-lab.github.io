@@ -9,6 +9,7 @@ David Kahler
 Center for Environmental Research and Education  
 Office: Fisher 333A  
 Lab: Fisher 339A  
+
 ## Class Time and Location  
 
 |Class|Time|Location|
@@ -21,25 +22,21 @@ Current office hours are available on the [Courses](courses.html) page.
 ## Course Description
 Hydrology (literally, the study of water) in the environment considers the water cycle, including the atmosphere (boundary-layer movement and mixing of heat and water vapor), surface water (river flow, overland flow, surface-ground interactions), and groundwater (Darcy’s Law, diffusion, media characteristics).  This course will cover these topics with a special focus on groundwater and interactions in the subsurface.  Special applications include contaminant transport and groundwater remediation.  Computational hydrologic models will also be introduced.  
 ## Textbook  
-  *Applied Hydrogeology*  
-  By C. W. Fetter  
-  Fourth edition  
-  Waveland Press, Inc  
-  ISBN: 978-1-4786-3709-7  
+| |Textbook Information| | |
+|---|---|---|---|
+|Required|*Applied Hydrogeology*     | | |
+|        |By C. W. Fetter            | | |
+|        |Fourth edition             | | |
+|        |Waveland Press, Inc        | | |
+|        |ISBN: 978-1-4786-3709-7    | | |  
+|Useful  |*Applied Hydrology*        |*Physical Hydrology*        |*Contaminant Hydrogeology*|
+|but not |By Chow, Maidment, and Mays|by S. Lawrence Dingman      |By C. W. Fetter           |
+|required|McGraw Hill                |Waveland Press, Inc         |Waveland Press, Inc.      |
+|        |ISBN: 0-07-100174-3        |Second edition 1-57766-561-9|ISBN: 1-57766-583-X       |
+|        |or any available           |third edition 1-4786-1118-9 |                          |
+
 Students also **must** have access to a Windows computer for the hydrologic models.  
-Useful books include (not required):  
-  *Applied Hydrology*  
-  By Chow, Maidment, and Mays  
-  McGraw Hill  
-  any edition, possible ISBN: 0-07-100174-3  
-  *Physical Hydrology*  
-  by S. Lawrence Dingman  
-  Waveland Press, Inc  
-  Second edition 1-57766-561-9 or third edition 1-4786-1118-9  
-  *Contaminant Hydrogeology*  
-  By C. W. Fetter  
-  Waveland Press, Inc  
-  ISBN: 1-57766-583-X  
+
 ## Course Website
 Blackboard is the official course website as it is the official method of communications at the University; however, this website and associated blog will be the primary source of information.  Box will also be used to share datasets.  This syllabus is subject to change; the updated syllabus will be available on the course website.  
 - [Syllabus](https://hydro-lab.github.io/hydrogeology.html)  
