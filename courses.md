@@ -2,7 +2,21 @@
 layout: default
 title: Courses
 ---
-# Courses  
+# Information  
+## Office Hours  
+Monday 10:00 am to 12:00 pm  
+In person or Zoom by request  
+Or by appointment  
+
+## Resources  
+For more computer information, view the research Wiki at: [Duquesne Hydrology Lab](https://github.com/hydro-lab/hydro-lab.github.io/wiki).  
+
+# Course Pages  
+## ENVI 591: Hydrogeology  
+- [Syllabus](hydrogeology.html)  
+- [Notes](https://docs.google.com/document/d/1Jumze-WRh4buNz9cWJKi1vckcBNn0ThL_W76oVFIhUo/edit?usp=sharing)  
+
+# Course Offerings  
 ### ENVI 251: Principles of Environmental Science  
 - Offered spring semesters  
 
