@@ -54,6 +54,7 @@ Students will be able to:
 - 50% Assignments, including reading quizzes and projects (individual and group)  
 
 Homework will be due in class on the due date.  Late homework may only earn half credit and will not be accepted more than three school days late.  Exceptions to any due dates or exams must be arranged well in advance and via e-mail.  See instructor for family or personal emergencies.  
+
 ## Course Policies
 Course policies that cover academic integrity, academic accommodations, and class procedures is available on the course website.  
 
@@ -62,23 +63,24 @@ The topics are listed at the planned dates.  The reading assignments are provide
 
 |Class|Topic|Assignment Due|
 |---|---|---|
-|24 Aug|Introduction| |
-|      |From where water comes| |
-|26 Aug|The water cycle and properties|Read *Thirst* ch. 1|
-|      |Water footprint| |
+|24 Aug|Introduction                         | |
+|      |From where water comes               | |
+|26 Aug|The water cycle and properties       |Read *Thirst* ch. 1|
+|      |Water footprint                      | |
 |31 Aug|Water supply, sanitation, and hygiene|Read *Thirst* ch. 2|
-| 2 Sep|Water treatment|Water bill assignment
-| 7 Sep|Water rights|Read *Thirst* ch. 3|
-|      |Transboundary water| |
-| 9 Sep| | |
-|14 Sep| | |
-|16 Sep| | |
-|21 Sep| | |
-|23 Sep| | |
-|28 Sep| | |
-|30 Sep| | |
-| 5 Oct| | |
-| 7 Oct| | |
+| 2 Sep|Water treatment                      |Water bill assignment
+| 7 Sep|Water rights                         |Read *Thirst* ch. 3|
+|      |Transboundary water                  | |
+| 9 Sep|Water security                       |Read UN HCR General|
+|      |"Human Right to Water"               |Comment #15        |
+|14 Sep| |Read: *Thirst* ch. 4|
+|16 Sep| |Read: *Thirst* ch. 5|
+|21 Sep| |Read: *Thirst* ch. 6|
+|23 Sep| |Read: *Thirst* ch. 7|
+|28 Sep| |Read: *Thirst* ch. 8|
+|30 Sep| |Read: *Thirst* ch. 9|
+| 5 Oct| |Read: *Thirst* ch. 10|
+| 7 Oct|Exam #1| |
 |12 Oct| | |
 |14 Oct| | |
 |19 Oct| | |
