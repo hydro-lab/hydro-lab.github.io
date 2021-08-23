@@ -25,3 +25,8 @@ toc:
         url: /wind.html
       - page: Resources
         url: /research_res.html
+- title: Teaching
+  sub:
+      - page: Courses
+        url: /courses.html
+      
