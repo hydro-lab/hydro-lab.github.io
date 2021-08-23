@@ -20,6 +20,7 @@ Additional course information and resources:
 - [Syllabus](hydrogeology.html)  
 - [Notes](https://docs.google.com/document/d/1Jumze-WRh4buNz9cWJKi1vckcBNn0ThL_W76oVFIhUo/edit?usp=sharing)  
 - [Box](https://duq.box.com/s/7b9pc0aq74dgho3ypbhs4o2gz8e4a7jc) *requires sign-in*  
+
 ### ENVI 456: Water, Environment, and Development  
 - [Syllabus](waterdev.html)  
 - [Box](https://duq.box.com/s/m6hrov7c0hr3b3m80qj8kjybva3255pa) *requires sign-in*  
