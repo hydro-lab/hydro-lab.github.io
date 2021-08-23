@@ -22,13 +22,13 @@ Current office hours are available on the [Courses](courses.html) page.
 ## Course Description
 Hydrology (literally, the study of water) in the environment considers the water cycle, including the atmosphere (boundary-layer movement and mixing of heat and water vapor), surface water (river flow, overland flow, surface-ground interactions), and groundwater (Darcy’s Law, diffusion, media characteristics).  This course will cover these topics with a special focus on groundwater and interactions in the subsurface.  Special applications include contaminant transport and groundwater remediation.  Computational hydrologic models will also be introduced.  
 ## Textbook  
-|.  |Textbook Information| | |
+|.  |Textbook Information|. |. |
 |---|---|---|---|
-|Required|*Applied Hydrogeology*     | | |
-|.       |By C. W. Fetter            | | |
-|.       |Fourth edition             | | |
-|.       |Waveland Press, Inc        | | |
-|.       |ISBN: 978-1-4786-3709-7    | | |  
+|Required|*Applied Hydrogeology*     |. |. |
+|.       |By C. W. Fetter            |. |. |
+|.       |Fourth edition             |. |. |
+|.       |Waveland Press, Inc        |. |. |
+|.       |ISBN: 978-1-4786-3709-7    |. |. |  
 |Useful  |*Applied Hydrology*        |*Physical Hydrology*        |*Contaminant Hydrogeology*|
 |but not |By Chow, Maidment, and Mays|by S. Lawrence Dingman      |By C. W. Fetter           |
 |required|McGraw Hill                |Waveland Press, Inc         |Waveland Press, Inc.      |
