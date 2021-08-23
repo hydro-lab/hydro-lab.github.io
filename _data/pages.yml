@@ -5,10 +5,6 @@ toc:
         url: /pi.html
       - page: Students
         url: /students.html
-      - page: Prospective Students
-        url: /prospective.html
-      - page: Student Groups
-        url: /groups.html
 - title: Research
   sub:
       - page: Overview
