@@ -66,7 +66,7 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |24 Aug|Introduction                         | |
 |      |From where water comes               | |
 |26 Aug|The water cycle and properties       |Read *Thirst* ch. 1|
-|      |Water footprint                      | |
+|      |Water footprint                      |Water footprint    |
 |31 Aug|Water supply, sanitation, and hygiene|Read *Thirst* ch. 2|
 | 2 Sep|Water treatment                      |Water bill assignment
 | 7 Sep|Water rights                         |Read *Thirst* ch. 3|
