@@ -65,35 +65,47 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |---|---|---|
 |24 Aug|Introduction                         | |
 |      |From where water comes               | |
-|26 Aug|The water cycle and properties       |Read *Thirst* ch. 1|
-|      |Water footprint                      |Water footprint    |
-|31 Aug|Water supply, sanitation, and hygiene|Read *Thirst* ch. 2|
-| 2 Sep|Water treatment                      |Water bill assignment
-| 7 Sep|Water rights                         |Read *Thirst* ch. 3|
-|      |Transboundary water                  | |
-| 9 Sep|Water security                       |Read UN HCR General|
-|      |"Human Right to Water"               |Comment #15        |
-|14 Sep| |Read: *Thirst* ch. 4|
-|16 Sep| |Read: *Thirst* ch. 5|
-|21 Sep| |Read: *Thirst* ch. 6|
-|23 Sep| |Read: *Thirst* ch. 7|
-|28 Sep| |Read: *Thirst* ch. 8|
-|30 Sep| |Read: *Thirst* ch. 9|
-| 5 Oct| |Read: *Thirst* ch. 10|
+|26 Aug|The water cycle and properties       |Read *Thirst* ch. 1  |
+|      |Water footprint                      |Water footprint      |
+|31 Aug|Water supply, sanitation, and hygiene|Water bill assignment|
+| 2 Sep|Water treatment                      |Read *Thirst* ch. 2  |
+|      |POU v. centralized treatment         ||
+|      |Disinfection byproducts              ||
+| 7 Sep|Water rights                         |Read *Thirst* ch. 3  |
+|      |Environental water                   | |
+| 9 Sep|Water security                       |Read UN HCR General  |
+|      |"Human Right to Water"               |Comment #15          |
+|14 Sep|Sanitation                           |Read: *Thirst* ch. 4 |
+|      |Waste treatment                      | |
+|      |Runoff, natural infrastructure, CSOs | |
+|16 Sep|Water reuse                          |Read: *Thirst* ch. 5|
+|21 Sep|What is clean water                  |Read: *Thirst* ch. 6|
+|      |CECs                                 | |
+|23 Sep|Agricultural water, growing seasons  |Read: *Thirst* ch. 7|
+|      |Monoculture (ex. U.S. Feed the Future)| |
+|      |Kilombero Valley, Tanzania           | |
+|28 Sep|Water and gender issues              |Read: *Thirst* ch. 8|
+|30 Sep|Group presentations and discussion   |Read: *Thirst* ch. 9|
+| 5 Oct|Agricultural water use efficiency    |Read: *Thirst* ch. 10|
+|      |Virtual water                        | |
+|      |Systems approach                     | |
 | 7 Oct|Exam #1| |
-|12 Oct| | |
-|14 Oct| | |
-|19 Oct| | |
-|21 Oct| | |
-|26 Oct| | |
-|28 Oct| | |
-| 4 Nov| | |
-| 9 Nov| | |
-|11 Nov| | |
-|16 Nov| | |
-|18 Nov| | |
-|30 Nov| | |
-| 2 Dec| | |
-| 7 Dec| | |
-| 9 Dec| | |
+|12 Oct|Video: Poverty, Inc.                 | |
+|14 Oct|Video: Poverty, Inc.                 | |
+|19 Oct|Marshall Plan, multilaterals, and bilaterals | |
+|      |The three Ds                         | |
+|21 Oct|Aid structures, ODA                  |Read: *Aid* ch. 1&2 |
+|26 Oct|Video: God Loves Uganda              | |
+|28 Oct|Video: God Loves Uganda              | |
+| 4 Nov|Aid project investigation group projects| |
+| 9 Nov|Aid project investigation group projects|Read: *Aid* ch. 3|
+|11 Nov|Aid project investigation group projects|Read: *Aid* ch. 4|
+|16 Nov|The art of maintenance               |Read: *Aid* pt. 2 intro, ch. 5&6|
+|18 Nov|Case study: Ethiopia roads, Tanzania port|Read: *Aid* ch. 7|
+|      |Aid and climate change                   | |
+|30 Nov|Case study: USAID Development Credit Authority|Read: *Aid* ch. 8|
+|      |Case study: Tanzania v. Pakistan Rice    | |
+| 2 Dec|Class debate: aspect of ODA              |Read: *Aid* ch. 9|
+| 7 Dec|Future of aid, review                    |Read: *Aid* Dongo Revisited & ch. 10|
+| 9 Dec|Exam #2 11:00-13:00                      | |
 
