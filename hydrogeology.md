@@ -14,7 +14,7 @@ Lab: Fisher 339A
 
 |Class|Time|Location|
 |---|---|---|
-|Lecture|Tuesday and Thursday 11-12:15|Fisher |
+|Lecture|Tuesday and Thursday 11-12:15|Fisher 214|
 |Field|TBA|Frick or Schenley Park|
 
 ## Office Hours
