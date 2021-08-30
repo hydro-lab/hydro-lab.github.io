@@ -23,6 +23,10 @@ toc:
         url: /research_res.html
 - title: Teaching
   sub:
+      - page: Class Information
+        url: /class.html
       - page: Courses
         url: /courses.html
+      - page: Seminar
+        url: /seminar.html
       
