@@ -32,7 +32,7 @@ Use this timeline to determine the deadlines and timing for required courses (th
 |Intended graduation|Fall|Spring|Summer|Fall|Spring|
 |---|---|---|---|---|---|
 |August|ENVI414H|ENVI390|ENVI415H, Graduate| | |
-|December|ENVI414H|ENVI 390|ENVI390*, URP|ENVI415H, Graduate| |
+|December|ENVI414H|ENVI390|ENVI390*, URP|ENVI415H, Graduate| |
 |May| | | |ENVI414H, ENVI390|ENVI415H, Graduate|  
 
 '* only for those students who wish to conduct research during the summer for credit.  Exceptions may be made if the student is accepted into the Undergraduate Research Program.  It is not required for students to conduct research in both the summer and preceding spring; however, it is an option.  
