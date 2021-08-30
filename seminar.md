@@ -3,7 +3,6 @@ layout: default
 title: Seminar
 ---
 # Environmental Science Seminar  
-## Fall 2021  
 
 ## Schedule  
 - Seminars are held on Fridays at 12:00pm  
