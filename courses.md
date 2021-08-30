@@ -2,33 +2,18 @@
 layout: default
 title: Courses
 ---
-# Course Information  
-## Office Hours  
-Monday 10:00 am to 12:00 pm  
-In person or Zoom by request  
-Or by appointment  
-
-## Resources  
-Additional course information and resources:  
-- [Course policies](coursepolicies.html)  
-- [Course resources](courseresources.html)  
-- Helpful computer tools at [Duquesne Hydrology Lab](https://github.com/hydro-lab/hydro-lab.github.io/wiki) wiki  
-
-
-## Course Offerings  
+# Courses
 ### ENVI 251: Principles of Environmental Science  
-- offered every spring semester  
 
 ### ENVI 456: Water, Environment, and Development  
-- offered most fall semesters  
 - [Syllabus](waterdev.html)  
 - [Box](https://duq.box.com/s/m6hrov7c0hr3b3m80qj8kjybva3255pa) *requires sign-in*  
 
 ### ENVI 404: Computer Tools for Scientists
-- offered irregularly  
 
 ### ENVI 549: Fate and Transport
-- Offered spring semesters  
+- Syllabus  
+- [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
 
 ### ENVI 580: Fluid Mechanics
 - offered alternate fall semesters  
