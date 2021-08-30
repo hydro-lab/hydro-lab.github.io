@@ -2,7 +2,10 @@
 layout: default
 title: Courses
 ---
-# Courses
+# Courses  
+### Environmental Science Undergraduate Research  
+Students may participate in research with or without credit.  Those who wish to obtain credit should enroll in ENVI 390 for 1-3 credits.  In the final year of study, students may apply for the [Environmental Science Honors Program](eshonors.html) and write an undergraduate honors thesis.  
+
 ### ENVI 251: Principles of Environmental Science  
 
 ### ENVI 456: Water, Environment, and Development  
