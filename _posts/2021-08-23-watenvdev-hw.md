@@ -1,5 +1,5 @@
 ---
-title: Water, Environment, and Development Homwork Due 26 August
+title: Water, Environment, and Development Homework Due 26 August
 layout: post
 author: David
 ---
