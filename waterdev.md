@@ -72,7 +72,7 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |      |POU v. centralized treatment         ||
 |      |Disinfection byproducts              ||
 | 7 Sep|Water rights                         |Read *Thirst* ch. 3  |
-|      |Environental water                   | |
+|      |Environmental water                  | |
 | 9 Sep|Water security                       |Read UN HCR General  |
 |      |"Human Right to Water"               |Comment #15          |
 |14 Sep|Sanitation                           |Read: *Thirst* ch. 4 |
