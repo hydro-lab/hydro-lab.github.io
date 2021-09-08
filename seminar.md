@@ -16,7 +16,7 @@ title: Seminar
 10 September|Neil Brown, Duquesne University|TBA|  
 17 September|[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff)|Duquesne Research Projects|  
 01 October|Cassy Rodriguez, WE4F/United States Agency for International Development|Securing Water for Food Grand Challenge|  
-15 October|Nick Ruhly, Federal Emergency Management Agency|National Flood Insurance|  
+15 October|Nick Ruhly, Federal Emergency Management Agency|Finances in the National Flood Insurance Program|  
 29 October| |  
 12 November|Carla Ng, University of Pittsburgh|TBA|  
 
