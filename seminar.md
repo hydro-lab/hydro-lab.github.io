@@ -13,7 +13,7 @@ title: Seminar
 
 |Date|Speaker|Title|
 |---|---|---|
-10 September|Neil Brown, Duquesne University|Environmental Equity: What does this mean for Environmental Science education?|  
+10 September|Neil Brown, Duquesne University|[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf)|  
 17 September|[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff)|Duquesne Research Projects|  
 01 October|Cassy Rodriguez, WE4F/United States Agency for International Development|Securing Water for Food Grand Challenge|  
 15 October|Nick Ruhly, Federal Emergency Management Agency|Finances in the National Flood Insurance Program|  
