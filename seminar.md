@@ -20,3 +20,5 @@ title: Seminar
 29 October| |  
 12 November|Carla Ng, University of Pittsburgh|TBA|  
 
+### Special Case Study  
+[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt)
