@@ -82,8 +82,8 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |21 Sep|What is clean water                  |Read: *Thirst* ch. 6|
 |      |CECs                                 | |
 |23 Sep|Agricultural water, growing seasons  |Read: *Thirst* ch. 7|
-|      |Monoculture (ex. U.S. Feed the Future)| |
-|      |Kilombero Valley, Tanzania           | |
+|      |Monoculture (ex. U.S. Feed the Future)|Water Footprint     |
+|      |Kilombero Valley, Tanzania           |*exercise #3*       |
 |28 Sep|Water and gender issues              |Read: *Thirst* ch. 8|
 |30 Sep|Group presentations and discussion   |Read: *Thirst* ch. 9|
 | 5 Oct|Agricultural water use efficiency    |Read: *Thirst* ch. 10|
