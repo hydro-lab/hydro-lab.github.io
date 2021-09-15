@@ -7,8 +7,9 @@ title: Courses
 
 ### ENVI 404: Computer Tools for Scientists
 
-### ENVI 414H/415H: Environmental Science Honors Program - *see below*  
-- Syllabus
+### ENVI 414H/415H: Environmental Science Honors Program  
+- [Syllabus](ughonors.html)  
+- *see below for more information*  
 
 ### ENVI 456: Water, Environment, and Development  
 - [Syllabus](waterdev.html)  
@@ -19,7 +20,7 @@ title: Courses
 - [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
 
 ### ENVI 580: Fluid Mechanics
-- offered alternate fall semesters  
+- Syllabus  
 
 ### ENVI 591: Hydrogeology  
 - [Syllabus](hydrogeology.html)  
@@ -33,6 +34,7 @@ title: Courses
 ### GLBH 185: Introduction to Global Health  
 - [Water, Sanitation, and Hygiene module](https://sites.google.com/view/duq-hydro-wash-unit/home)  
 
+## Department Programs  
 ### Environmental Science Seminar  
 Seminars are held on Fridays at 12:00pm, see the seminar [schedule](seminar.html).
 
