@@ -84,17 +84,18 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |23 Sep|Agricultural water, growing seasons  |Read: *Thirst* ch. 7|
 |      |Monoculture (ex. U.S. Feed the Future)|Water Footprint     |
 |      |Kilombero Valley, Tanzania           |*exercise #3*       |
-|28 Sep|Water and gender issues              |Read: *Thirst* ch. 8|
-|30 Sep|Group presentations and discussion   |Read: *Thirst* ch. 9|
+|28 Sep|Water distribution, India            |Read: *Thirst* ch. 8|
+|30 Sep|Water and gender issues              |Read: *Thirst* ch. 9|
 | 5 Oct|Agricultural water use efficiency    |Read: *Thirst* ch. 10|
 |      |Virtual water                        | |
 |      |Systems approach                     | |
-| 7 Oct|Exam #1| |
-|12 Oct|Video: Poverty, Inc.                 | |
+| 7 Oct|Group presentations and discussion   | |
+|12 Oct|Exam #1                              | |
 |14 Oct|Video: Poverty, Inc.                 | |
-|19 Oct|Marshall Plan, multilaterals, and bilaterals | |
-|      |The three Ds                         | |
+|19 Oct|Video: Poverty, Inc.                 | |
 |21 Oct|Aid structures, ODA                  |Read: *Aid* ch. 1&2 |
+|      |Marshall Plan, multilaterals, and bilaterals | |
+|      |The three Ds                         | |
 |26 Oct|Video: God Loves Uganda              | |
 |28 Oct|Video: God Loves Uganda              | |
 | 4 Nov|Aid project investigation group projects| |
