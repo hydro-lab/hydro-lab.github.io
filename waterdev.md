@@ -96,16 +96,16 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |21 Oct|Aid structures, ODA                  |Read: *Aid* ch. 1&2 |
 |      |Marshall Plan, multilaterals, and bilaterals | |
 |      |The three Ds                         | |
-|26 Oct|Video: God Loves Uganda              | |
-|28 Oct|Video: God Loves Uganda              | |
-| 4 Nov|Aid project investigation group projects| |
-| 9 Nov|Aid project investigation group projects|Read: *Aid* ch. 3|
+|26 Oct|Aid project investigation group projects| |
+|28 Oct|Aid project investigation group projects|Read: *Aid* ch. 3|
+| 4 Nov|Video: God Loves Uganda              | |
+| 9 Nov|Video: God Loves Uganda              | |
 |11 Nov|Aid project investigation group projects|Read: *Aid* ch. 4|
 |16 Nov|The art of maintenance               |Read: *Aid* pt. 2 intro, ch. 5&6|
 |18 Nov|Case study: Ethiopia roads, Tanzania port|Read: *Aid* ch. 7|
 |      |Aid and climate change                   | |
 |30 Nov|Case study: USAID Development Credit Authority|Read: *Aid* ch. 8|
-|      |Case study: Tanzania v. Pakistan Rice    | |
+|      |Case study: Tanzania v. Pakistan Rice    |Watch: [El Cacao](https://authenticate.library.duq.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edskan&AN=edskan.188674&site=eds-live&scope=site)|
 | 2 Dec|Class debate: aspect of ODA              |Read: *Aid* ch. 9|
 | 7 Dec|Future of aid, review                    |Read: *Aid* Dongo Revisited & ch. 10|
 | 9 Dec|Exam #2 11:00-13:00                      | |
