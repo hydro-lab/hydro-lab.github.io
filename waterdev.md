@@ -92,9 +92,9 @@ The topics are listed at the planned dates.  The reading assignments are provide
 | 7 Oct|Group presentations and discussion   | |
 |12 Oct|Exam #1                              | |
 |14 Oct|Video: Poverty, Inc.                 | |
-|19 Oct|Video: Poverty, Inc.                 | |
-|21 Oct|Aid structures, ODA                  |Read: *Aid* ch. 1&2 |
-|      |Marshall Plan, multilaterals, and bilaterals | |
+|19 Oct|Video: Poverty, Inc.                 |[Video worksheet](https://forms.gle/YT6VbbPuxi1C5NtF8) |
+|21 Oct|Aid structures, ODA                  |[Video worksheet](https://forms.gle/CQtVGBTmQu52Dbwr9) |
+|      |Marshall Plan, multilaterals, and bilaterals |Read: *Aid* ch. 1&2 |
 |      |The three Ds                         | |
 |26 Oct|Aid project investigation group projects| |
 |28 Oct|Aid project investigation group projects|Read: *Aid* ch. 3|
