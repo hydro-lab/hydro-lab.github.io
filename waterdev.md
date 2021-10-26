@@ -96,11 +96,12 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |21 Oct|Aid structures, ODA                  |[Video worksheet](https://forms.gle/CQtVGBTmQu52Dbwr9) |
 |      |Marshall Plan, multilaterals, and bilaterals |Read: *Aid* ch. 1&2 |
 |      |The three Ds                         | |
-|26 Oct|Aid project investigation group projects| |
-|28 Oct|Aid project investigation group projects|Read: *Aid* ch. 3|
+|26 Oct|Investment as development            | |
+|      |[US International Development Finance Corporation](https://www.dfc.gov/our-impact/investment-stories)| |
+|28 Oct|Investment group projects            |Read: *Aid* ch. 3|
 | 4 Nov|Video: God Loves Uganda              | |
 | 9 Nov|Video: God Loves Uganda              | |
-|11 Nov|Aid project investigation group projects|Read: *Aid* ch. 4|
+|11 Nov|Development in Afghanistan           |Read: *Aid* ch. 4|
 |16 Nov|The art of maintenance               |Read: *Aid* pt. 2 intro, ch. 5&6|
 |18 Nov|Case study: Ethiopia roads, Tanzania port|Read: *Aid* ch. 7|
 |      |Aid and climate change                   | |
