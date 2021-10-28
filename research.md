@@ -5,7 +5,7 @@ title: Research
 # Research 
 ## Projects
 ### [WaterQ2](http://www.duq.edu/limpopo): Water Quality and Quantity in the Limpopo Basin  
-#### [Water Resources Engineering](/research.html)  
+#### [Water Resources Engineering](/tb_water_res.html)  
 - Remote sensing of river gage  
 - Groundwater trends by remote sensing  
 - Saltwater intrusion in the Limpopo River, Xai Xai, Mozambique  
