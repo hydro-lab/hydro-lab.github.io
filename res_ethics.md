@@ -12,7 +12,8 @@ https://ethics.agu.org/files/2013/03/Scientific-Integrity-and-Professional-Ethic
 National Science Foundation requirements for RCR:
 https://www.nsf.gov/bfa/dias/policy/rcr.jsp
 
-
+National Institutes of Health requirements for RCR:  
+https://oir.nih.gov/sourcebook/ethical-conduct/responsible-conduct-research-training
 
 https://ori.hhs.gov/sites/default/files/rcrintro.pdf
 
