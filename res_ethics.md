@@ -16,6 +16,8 @@ https://www.nsf.gov/bfa/dias/policy/rcr.jsp
 
 https://ori.hhs.gov/sites/default/files/rcrintro.pdf
 
+Research Resources (sign-in required):  
+https://duq.box.com/s/u87lesgmu7pl6zc7ha2kcda4djfp67ex
 
 Duquesne University Research:
 http://www.duq.edu/research/research-conduct
