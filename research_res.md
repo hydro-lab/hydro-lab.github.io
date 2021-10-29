@@ -33,32 +33,14 @@ http://guides.library.duq.edu/citation_management
 I have found that Mendeley satisfies all of my needs.  Mendeley has a web-based and 
 desktop interface and the website has a number of other features such as a grant database, recommendations for papers, and a data repository.
 http://www.mendeley.com
-## Research Ethics
-Ethics and the responsible conduct of research (RCR) is fundamental; however, this topic is largely overlooked in the training of scientists and engineers.  The following resources are provided to supplement any formal training:
 
-National Science Foundation requirements for RCR:
-https://www.nsf.gov/bfa/dias/policy/rcr.jsp
+## Fieldwork Safety Plan
+This plan is for internal use only.  Others may use or modify; however, the PI, the University, or any funding agency claims no responsibility for any of the material.  In general, safety plans should not be used without proper training.  
 
-National Society of Professional Engineers Code of Ethics: https://www.nspe.org/resources/ethics/code-ethics
+## Fieldwork Safety Guidelines
+USGS Guide for Safe Field Operations  
 
-American Geophysical Union Scientific Integrity and Professional Ethics:
-https://ethics.agu.org/files/2013/03/Scientific-Integrity-and-Professional-Ethics.pdf
-
-Duquesne University Research:
-http://www.duq.edu/research/research-conduct
-Students working on hydrology research should expect to take:
-- Physical Science Responsible Conduct of Research  
-- Social & Behavioral Research Basic/Refresher  
-
-Human Subjects Protections  
-Some research conducted may involve human subjects.  Any researcher involved in research that involves human subjects must follow institutional guidelines.  The best place to start is with the Institutional Review Board:
-http://www.duq.edu/research/research-conduct/human-subjects---irb
-Any students that engage in research with human subjects should take the appropriate IRB course, likely that for Social/Behavioral/Educational research.
-Fieldwork Safety Plan
-This plan is for internal use only.  Others may use or modify; however, the PI, the University, or any funding agency claims no responsibility for any of the material.  In general, safety plans should not be used without proper training.
-Fieldwork Safety Guidelines
-USGS Guide for Safe Field Operations
-Laboratory Safety
+## Laboratory Safety
 Duquesne University provides online laboratory safety training:
 http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training
 and several laboratory safety resources:
