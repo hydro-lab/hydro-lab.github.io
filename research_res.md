@@ -3,6 +3,14 @@ layout: default
 title: Resources
 ---
 # Research Resources  
+## Duquesne Weather Station  
+The Duquesne Weather Station is located at 40.43559 &#8451; N, 79.99166 &#8451; W on the roof of Mellon Hall.  The wind direction and speed, temperature, and humidity sensors are on a 3 m mast above the roof.  This height is not sufficient to overcome the displacement of the building; however, it is the highest that could feasibly be implemented.  Additionally, the building is on the bluff and nestled in an urban environment.  Furthermore, the primary purpose of the weather station was to determine the wind in an urban environment.  Therefore, please do not mistaken this weather station to show regionally representative data, it is intended to show the weather in our complex environment.  It is also used for potential [wind power siting](/wind.html).  Documentation of the instruments are available:  
+- Datalogger [manual](https://www.campbellsci.com/cr1000x)  
+- Internet interface [manual](https://www.campbellsci.com/nl241)  
+- Wind direction and speed [manual](https://www.campbellsci.com/05103-l), [calibration](https://github.com/hydro-lab/wind-power/raw/main/CalibrationFiles-WindStationsDUQ.pdf)  
+- Temperature/hygrometer [manual](https://www.campbellsci.com/hygrovue10), [calibration](https://github.com/hydro-lab/wind-power/raw/main/CalibrationFiles-WindStationsDUQ.pdf)  
+- Precipitation [manual](https://www.campbellsci.com/te525-l), [calibration](https://github.com/hydro-lab/wind-power/raw/main/CalibrationFiles-WindStationsDUQ.pdf)  
+
 ## Meteorological Data  
 Finding reliable weather station data can be a challenge.  While some may be tempted to search a commercial site for data, research data should be obtained by a professional, verifiable source.  The National Centers for Environmental Information (formerly the National Climatic Data Center), part of NOAA, houses data from around the world.  To search for data from within the United States, I recommend using their Find a Station tool:  
 - [https://www.ncdc.noaa.gov/cdo-web/datatools/findstation](https://www.ncdc.noaa.gov/cdo-web/datatools/findstation)  
