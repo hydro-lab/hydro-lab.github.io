@@ -60,8 +60,8 @@ Course policies that cover academic integrity, academic accommodations, and clas
 
 ## Topics  
 
-|Class |Topic                                  |Assignment Due|
-|------|---------------------------------------|---|
+|Class |Topic                                  |Textbook|
+|------|---------------------------------------|--------|
 |12 Jan|Introduction *asynchronous class*      |ch. 1 |
 |      |Units, mass balance and control volume | |
 |19 Jan|Chemistry review                       |ch. 2 |
