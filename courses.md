@@ -4,6 +4,9 @@ title: Courses
 ---
 # Courses  
 ### ENVI 251: Principles of Environmental Science  
+- [Canvas site]() *requires sign-in*  
+- [Syllabus](principles.html)  
+- [Box]() *requires sign-in*  
 
 ### ENVI 404: Computer Tools for Scientists
 
@@ -16,7 +19,8 @@ title: Courses
 - [Box](https://duq.box.com/s/m6hrov7c0hr3b3m80qj8kjybva3255pa) *requires sign-in*  
 
 ### ENVI 549: Fate and Transport
-- Syllabus  
+- [Canvas site]() *requires sign-in*  
+- [Syllabus](fate.html)  
 - [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
 
 ### ENVI 580: Fluid Mechanics
