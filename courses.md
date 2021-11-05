@@ -22,6 +22,7 @@ title: Courses
 - [Canvas site]() *requires sign-in*  
 - [Syllabus](fate.html)  
 - [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
+- [Box](https://duq.box.com/s/wxxszvsxpk3q14zk8t1ysyrulh7anmyy) *requires sign-in*  
 
 ### ENVI 580: Fluid Mechanics
 - Syllabus  
