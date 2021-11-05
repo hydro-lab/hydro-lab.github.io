@@ -59,26 +59,26 @@ Homework will be due in class on the due date.  Late homework may only earn half
 Course policies that cover academic integrity, academic accommodations, and class procedures is available on the course website.  
 
 ## Topics  
-|Class|Topic|Assignment Due|
-|---|---|---|
-|12 Jan|Introduction *asynchronous class*      |Read ch. 1 |
+
+|Class |Topic                                  |Assignment Due|
+|------|---------------------------------------|---|
+|12 Jan|Introduction *asynchronous class*      |ch. 1 |
 |      |Units, mass balance and control volume | |
-|19 Jan|Chemistry review                       |Read ch. 2 |
-|26 Jan|Chemical equilibrium                   |Read ch. 3 |
+|19 Jan|Chemistry review                       |ch. 2 |
+|26 Jan|Chemical equilibrium                   |ch. 3 |
 |02 Feb|Minteq lab                             | |
-|09 Feb|Sorption                               |Read ch. 3 |
-|16 Feb|Lake structure and mixing              |Read ch. 5 |
-|23 Feb|Lake models                            |Read ch. 5 |
+|09 Feb|Sorption                               |ch. 3 |
+|16 Feb|Lake structure and mixing              |ch. 5 |
+|23 Feb|Lake models                            |ch. 5 |
 |02 Mar|Exam #1                                | |
 |09 Mar|Spring Break, *no class*               | |
-|16 Mar|Mixing and the advection-diffusion-    |Read ch. 6 |
+|16 Mar|Mixing and the advection-diffusion-    |ch. 6 |
 |      |reaction equation (Fick's law)         | |
-|23 Mar|Transport in rivers                    |Read ch. 6 |
-|30 Mar|Special case: BOD, eutrophication      |Read ch. 7 |
-|06 Apr|Groundwater structure, diffusion       |Read ch. 8 |
+|23 Mar|Transport in rivers                    |ch. 6 |
+|30 Mar|Special case: BOD, eutrophication      |ch. 7 |
+|06 Apr|Groundwater structure, diffusion       |ch. 8 |
 |      |equation, and Darcy's equation         | |
 |13 Apr|Monday schedule (Easter) *no class*    | |
 |20 Apr|Modflow lab                            | |
-|27 Apr|Atmospheric mixing                     |Read ch. 9 |
-|      |Exam #2 *TBA*                          | |
-
+|27 Apr|Atmospheric mixing                     |ch. 9 |
+|      |Exam #2 *TBA*                          | |  
