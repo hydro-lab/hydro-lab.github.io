@@ -101,7 +101,7 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |28 Oct|Investment group projects            |Read: *Aid* ch. 3|
 | 4 Nov|Give people money                    |Read: *Aid* ch. 4|
 | 9 Nov|Video: God Loves Uganda              | |
-|11 Nov|Video: God Loves Uganda              | |
+|11 Nov|Video: God Loves Uganda              |[Video worksheet](https://forms.gle/riBvHNyDekmArCjGA) |
 |16 Nov|Development in Afghanistan           |Read: *Aid* pt. 2 intro, ch. 5&6|
 |18 Nov|The art of maintenance               |Read: *Aid* ch. 7|
 |      |Aid and climate change                   | |
