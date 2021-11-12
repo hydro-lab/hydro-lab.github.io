@@ -5,7 +5,7 @@ title: Class Information
 # Class Information  
 ## Office Hours  
 Monday 10:00 am to 12:00 pm  
-In person or Zoom by request  
+Fisher 333A or Zoom by request  
 Or by appointment  
 
 ## Resources  
