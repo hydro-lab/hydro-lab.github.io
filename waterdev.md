@@ -91,7 +91,7 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |      |Systems approach                     | |
 | 7 Oct|Group presentations and discussion   | |
 |12 Oct|Exam #1                              | |
-|14 Oct|[Video: Poverty, Inc.](https://video.alexanderstreet.com/watch/poverty-inc?account_id=10610&usage_group_id=105539)| |
+|14 Oct|Video: [Poverty, Inc.](https://video.alexanderstreet.com/watch/poverty-inc?account_id=10610&usage_group_id=105539)| |
 |19 Oct|Video: Poverty, Inc.                 |[Video worksheet](https://forms.gle/YT6VbbPuxi1C5NtF8) |
 |21 Oct|Aid structures, ODA                  |[Video worksheet](https://forms.gle/CQtVGBTmQu52Dbwr9) |
 |      |Marshall Plan, multilaterals, and bilaterals |Read: *Aid* ch. 1&2 |
@@ -100,7 +100,7 @@ The topics are listed at the planned dates.  The reading assignments are provide
 |      |[US International Development Finance Corporation](https://www.dfc.gov/our-impact/investment-stories)| |
 |28 Oct|Investment group projects            |Read: *Aid* ch. 3|
 | 4 Nov|Give people money                    |Read: *Aid* ch. 4|
-| 9 Nov|Video: God Loves Uganda              | |
+| 9 Nov|Video: [God Loves Uganda](https://duquesne.kanopy.com/video/god-loves-uganda)              | |
 |11 Nov|Video: God Loves Uganda              |[Video worksheet](https://forms.gle/riBvHNyDekmArCjGA) |
 |16 Nov|Development in Afghanistan           |[Video worksheet](https://forms.gle/usbKofgnU4oJK3pg9) Read: *Aid* pt. 2 intro, ch. 5&6|
 |18 Nov|The art of maintenance               |Read: *Aid* ch. 7|
