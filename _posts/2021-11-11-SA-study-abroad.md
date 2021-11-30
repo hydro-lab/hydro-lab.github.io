@@ -4,4 +4,4 @@ layout: post
 author: David
 ---
 ### New study abroad course  
-See the ad on [YouTube](https://youtu.be/bFhVrITdvT0) and sign up for an interest meeting.  
+Check out this promo [video](https://youtu.be/NRmEIAZAKEw) and fill out the [interest form](https://forms.gle/rgA7QWKETBzRxavy6).  You can also find out more about the [four-credit course](https://hydro-lab.github.io/fessa.html).  
