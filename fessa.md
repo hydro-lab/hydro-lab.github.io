@@ -6,7 +6,7 @@ title: Field Environmental Science in South Africa
 ## Short-Term Study Abroad  
 This is a three-week intensive science program in South Africa.  For more program information:  
 - See the tentative syllabus below  
-- View the brief promotional video  
+- View the brief [promotional video](https://youtu.be/NRmEIAZAKEw)  
 - Fill out the [online interest form](https://forms.gle/rgA7QWKETBzRxavy6)  
 - The *Center for Global Engagement* oversees the [application and enrollment](https://www.duq.edu/academics/study-abroad) (coming soon)  
 
