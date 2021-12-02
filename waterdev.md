@@ -103,11 +103,9 @@ The topics are listed at the planned dates.  The reading assignments are provide
 | 9 Nov|Video: [God Loves Uganda](https://duquesne.kanopy.com/video/god-loves-uganda)              | |
 |11 Nov|Video: God Loves Uganda              |[Video worksheet](https://forms.gle/riBvHNyDekmArCjGA) |
 |16 Nov|Development in Afghanistan           |[Video worksheet](https://forms.gle/usbKofgnU4oJK3pg9) Read: *Aid* pt. 2 intro, ch. 5&6|
-|18 Nov|The art of maintenance               |Read: *Aid* ch. 7|
-|      |Aid and climate change                   | |
-|30 Nov|Case study: Ethiopia roads, Tanzania     |Read: *Aid* ch. 8|
-|      |port, and Tanzania v. Pakistan Rice      | |
-| 2 Dec|Class debate: aspect of ODA              |Read: *Aid* ch. 9|
-| 7 Dec|Future of aid, review                    |Read: *Aid* Dongo Revisited & ch. 10|
+|18 Nov|Foreign direct investment and China, Ethiopia roads, Tanzania port |Read: *Aid* ch. 7|
+|30 Nov|Operations and maintenance           |Read: *Aid* ch. 8|
+| 2 Dec|Climate change and international development |Read: *Aid* ch. 9|
+| 7 Dec|Future of aid, review, final debate preparation |Read: *Aid* Dongo Revisited & ch. 10|
 | 9 Dec|Exam #2 11:00-13:00                      | |
 
