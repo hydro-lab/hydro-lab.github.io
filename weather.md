@@ -7,7 +7,7 @@ title: Research - Weather Station
 
 The Duquesne Weather Station is located on the roof of Mellon Hall at 40.4356&#176; N, 79.9918&#176; W.  The wind direction and speed, temperature, and humidity sensors are on a 3 m mast above the roof.  This height is not sufficient to overcome the displacement of the building; however, it is the highest that could feasibly be implemented.  Additionally, the building is on the bluff and nestled in an urban environment.  Furthermore, the primary purpose of the weather station was to determine the wind in an urban environment.  Therefore, please do not mistaken this weather station to show regionally representative data, it is intended to show the weather in our complex environment.  It is also used for potential [wind power siting](/wind.html).
 
-40.4356 N, 79.9918 W.  It is equipped with:  
+It is equipped with:  
 - Campbell Scientific [CR1000X](https://www.campbellsci.com/cr1000x) Datalogger: 1 Hz measurements, 15 minute recording  
 - Campbell Scientific [HygroVUE10](https://www.campbellsci.com/hygrovue10) Thermometer and Hygrometer: temperature and relative humidity  
 - R. M. Young [05103-L](https://www.campbellsci.com/05103-l) Wind Monitor: wind speed and direction  
