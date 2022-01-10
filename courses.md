@@ -4,9 +4,9 @@ title: Courses
 ---
 # Courses  
 ### ENVI 251: Principles of Environmental Science  
-- [Canvas site]() *requires sign-in*  
+- [Canvas site](https://duq.instructure.com/courses/17676) *requires sign-in*  
 - [Syllabus](principles.html)  
-- [Box]() *requires sign-in*  
+- [Box](https://duq.box.com/s/22afxame12hjos92qci7l56j9bjq254o) *requires sign-in*  
 
 ### ENVI 404: Computer Tools for Scientists
 
