@@ -33,6 +33,7 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 
 ## Previous Semester Schedules  
 ### Fall 2021  
+
 |Date|Speaker|Title|
 |---|---|---|
 |10 September|Neil Brown, Duquesne University|[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf)|  
