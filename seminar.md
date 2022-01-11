@@ -13,12 +13,11 @@ title: Seminar
 
 |Date|Speaker|Title|
 |---|---|---|
-|21 January | | |  
 |28 January | | |  
 |04 February |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* | |  
 |11 February | | |  
 |18 February | | |  
-|25 February | | |  
+|25 February |John Gardner, University of Pittsburgh | |  
 |04 March | | |  
 |11 March |Spring Break |*no seminar* |  
 |18 March | | |  
