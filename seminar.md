@@ -14,7 +14,7 @@ title: Seminar
 |28 January | | |  
 |04 February |Philip Reeder |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
 |11 February | | |  
-|18 February | | |  
+|18 February |Corey Harper, Carnegie Mellon University | |  
 |25 February |John Gardner, University of Pittsburgh | |  
 |04 March | | |  
 |11 March |Spring Break |*no seminar* |  
