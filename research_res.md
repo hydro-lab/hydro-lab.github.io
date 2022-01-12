@@ -3,6 +3,10 @@ layout: default
 title: Resources
 ---
 # Research Resources  
+
+## Thesis  
+Remember to plan your thesis document preparation, defense, and revisions ahead of the [ETD deadlines](https://guides.library.duq.edu/etd).  
+
 ## Duquesne Weather Station  
 The Duquesne Weather Station is located the roof of Mellon Hall on a 3 m mast.  More available on the [weather station page](/weather.html) or about wind energy potential [wind power siting](/wind.html).  
 
