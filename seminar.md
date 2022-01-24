@@ -11,12 +11,12 @@ title: Seminar
 
 |Date|Speaker|Title|
 |---|---|---|
-|28 January | | |  
-|04 February |Philip Reeder |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
+|28 January |Journal Club, *The effects of defaunation on plants' capacity to track climate change* |[Box](https://duq.box.com/s/zzvp4spe5tjr6o887lu15dz25zunccx8) |  
+|04 February |Philip Reeder, CERE |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
 |11 February | | |  
 |18 February |Corey Harper, Carnegie Mellon University | |  
 |25 February |John Gardner, University of Pittsburgh | |  
-|04 March | | |  
+|04 March |Aja Ellis, Allegheny County Health Department | |  
 |11 March |Spring Break |*no seminar* |  
 |18 March | | |  
 |25 March | | |  
