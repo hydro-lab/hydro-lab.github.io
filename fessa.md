@@ -23,6 +23,13 @@ The purpose of this academic program is to teach students field methods and data
 
 This course will be conducted at [Kruger National Park](https://tropicalstudies.org/portfolio/skukuza-research-station/) and [University of Venda](https://www.univen.ac.za/).  
 
+#### Course Attributes  
+This course satisfies:  
+- Environmental Science field course requirement  
+- Bridges *Experiential Learning Opportunity* requirement  
+- Bridges *Quantitative and Scientific Reasoning* requirement  
+- Bridges *Social and Historical Reasoning* requirement (pending)  
+
 ### Required Textbook and Materials  
 - *Born a Crime* By Trevor Noah  
 - Rite in the Rain Weatherproof Hardcover notebook, 4.75”x7.5”, 350F  
