@@ -18,8 +18,12 @@ title: Seminar
 |25 February |John Gardner, University of Pittsburgh | |  
 |04 March |Aja Ellis, Allegheny County Health Department | |  
 |11 March |Spring Break |*no seminar* |  
-|18 March | | |  
-|25 March | | |  
+|18 March |*reserved for thesis defense* | |  
+|25 March |*reserved for thesis defense* | |  
+|01 April |*reserved for thesis defense* | |  
+|08 April | | |  
+|15 April |Good Friday |*no seminar* |  
+|22 April |Kevin Rose, Rensselaer Polytechnic Institute | |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not simply a checkbox in your research or education, which is why we hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H/415H), and the Graduate Seminar (ENVI 699).  
