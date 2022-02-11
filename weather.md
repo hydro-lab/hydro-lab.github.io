@@ -28,6 +28,6 @@ It is equipped with:
 
 Calibration information is available on [GitHub](https://github.com/hydro-lab/wind-power/blob/main/CalibrationFiles-WindStationsDUQ.pdf).  
 
-Data are available via CUAHSI - coming soon  
+Data are available via [CUAHSI](https://data.cuahsi.org/).  
 
 Activity, calibration, and quality control [log](/mellonhalllog.csv).  
