@@ -18,10 +18,10 @@ title: Seminar
 |25 February |John Gardner, University of Pittsburgh | |  
 |04 March |Aja Ellis, Allegheny County Health Department | |  
 |11 March |Spring Break |*no seminar* |  
-|18 March |*reserved for thesis defense* | |  
+|18 March |Career panel | |  
 |25 March |*reserved for thesis defense* | |  
 |01 April |*reserved for thesis defense* | |  
-|08 April | | |  
+|08 April |Literature search, manuscripts, publishing | |  
 |15 April |Good Friday |*no seminar* |  
 |22 April |Kevin Rose, Rensselaer Polytechnic Institute | |  
 
