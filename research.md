@@ -4,19 +4,22 @@ title: Research
 ---
 # Research 
 ## Projects
-### [WaterQ2](http://www.duq.edu/limpopo): Water Quality and Quantity in the Limpopo Basin  
-#### [Water Resources Engineering](/tb_water_res.html)  
+### Water Resources  
+#### part of the [WaterQ2](http://www.duq.edu/limpopo): Water Quality and Quantity in the Limpopo Basin project supported by USAID.  
+[Water Resources Management in a Transboundary River Basin](/tb_water_res.html):  
 - Remote sensing of river gage  
 - Groundwater trends by remote sensing  
 - Saltwater intrusion in the Limpopo River, Xai Xai, Mozambique  
 
-### Pure Thirst  
-- Fluoride removal  
+### Water Quality  
+- [Defluoridation](/fluoride.html)  
+- Pure Thirst student group
+- Turbulent mixing in natural channels
+- [Pump-and-treat groundwater remediation](/groundwater.html)
 
-### Other projects  
-- Air quality during COVID in Pittsburgh
-- Pump-and-treat groundwater remediation  
-- Turbulent mixing in natural channels  
+### Atmospheric Research  
+- [Air quality during COVID in Pittsburgh](/air.html)  
+- [Wind turbine siting](/wind.html)  
 
 ## Presentations  
 - Edokpayi, J. N., Sharp, G., Rose, K. C., Kahler, D. M. (2020). A SWOT analysis of Water Resource Management of the Limpopo River Basin. In Water Institute of Southern Africa 2020 Virtual Biennial Conference and Exhibition.  Johannesburg, South Africa.
