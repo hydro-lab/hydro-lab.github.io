@@ -9,16 +9,10 @@ toc:
   sub:
       - page: Overview
         url: /research.html
-      - page: Water Resources Engineering
-        url: /tb_water_res.html
-      - page: Defluoridation
-        url: /fluoride.html
-      - page: Groundwater Remediation
-        url: /groundwater.html
-      - page: Air Quality
-        url: /air.html
-      - page: Wind Turbines
-        url: /wind.html
+      - page: Publications
+        -url: /pubs.html
+      - page: Weather Station
+        url: /weather.html
       - page: Resources
         url: /research_res.html
 - title: Teaching
