@@ -11,10 +11,10 @@ title: Seminar
 
 |Date|Speaker|Title|
 |---|---|---|
-|28 January |Journal Club, *The effects of defaunation on plants' capacity to track climate change* |[Box](https://duq.box.com/s/zzvp4spe5tjr6o887lu15dz25zunccx8),[SI](https://www.science.org/doi/10.1126/science.abk3510) |  
+|28 January |Journal Club, *The effects of defaunation on plants' capacity to track climate change* |[Box](https://duq.box.com/s/zzvp4spe5tjr6o887lu15dz25zunccx8), [SI](https://www.science.org/doi/10.1126/science.abk3510) |  
 |04 February |Robert Sroufe, Management Department |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
 |11 February | | |  
-|18 February |Corey Harper, Carnegie Mellon University | |  
+|18 February |Corey Harper, Carnegie Mellon University |*Transitioning to a Smarter and More Sustainable Transportation System*, [flyer](https://duq.box.com/s/61yjixhk32ljtdeja4lm68limjcyyris), [abstract](https://duq.box.com/s/ftldhir1riu2ca8a4jrxbqj6okqro0tt) |  
 |25 February |John Gardner, University of Pittsburgh | |  
 |04 March |Aja Ellis, Allegheny County Health Department | |  
 |11 March |Spring Break |*no seminar* |  
