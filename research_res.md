@@ -48,8 +48,12 @@ This plan is for internal use only.  Others may use or modify; however, the PI, 
 USGS Guide for Safe Field Operations  
 
 ## Laboratory Safety
-Duquesne University provides online laboratory safety training:
-http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training
-and several laboratory safety resources:
-http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/lab-safety
-Always report any injuries to the PI immediately.
+Duquesne University provides online laboratory safety training and several laboratory safety resources:
+- [http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training](http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training)  
+- [http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/lab-safety](http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/lab-safety)  
+
+Always report any injuries to the PI immediately.  
+
+# SDS Access:  
+- [Fisher Database](https://www.fishersci.com/us/en/catalog/search/sdshome.html)  
+- [Lab inventory SDSs](https://duq.box.com/s/7tsi7zsttxt1rnrc97ljvwotnmend6ce)  
