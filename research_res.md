@@ -2,6 +2,10 @@
 layout: default
 title: Resources
 ---
+# SDS Access:  
+- [Fisher Database](https://www.fishersci.com/us/en/catalog/search/sdshome.html)  
+- [Lab inventory SDSs](https://duq.box.com/s/7tsi7zsttxt1rnrc97ljvwotnmend6ce)  
+
 # Research Resources  
 
 ## Thesis  
@@ -53,7 +57,3 @@ Duquesne University provides online laboratory safety training and several labor
 - [http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/lab-safety](http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/lab-safety)  
 
 Always report any injuries to the PI immediately.  
-
-# SDS Access:  
-- [Fisher Database](https://www.fishersci.com/us/en/catalog/search/sdshome.html)  
-- [Lab inventory SDSs](https://duq.box.com/s/7tsi7zsttxt1rnrc97ljvwotnmend6ce)  
