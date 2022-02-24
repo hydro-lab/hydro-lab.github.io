@@ -15,7 +15,7 @@ title: Seminar
 |04 February |Robert Sroufe, Management Department |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
 |11 February | | |  
 |18 February |Corey Harper, Carnegie Mellon University |*Transitioning to a Smarter and More Sustainable Transportation System*, [flyer](https://duq.box.com/s/61yjixhk32ljtdeja4lm68limjcyyris), [abstract](https://duq.box.com/s/ftldhir1riu2ca8a4jrxbqj6okqro0tt) |  
-|25 February |John Gardner, University of Pittsburgh | |  
+|25 February |John Gardner, University of Pittsburgh |*River Science from Space* [flyer](https://duq.box.com/s/fjkel8a0kydscbc255fc4wbgu3sykocj) |  
 |04 March |Aja Ellis, Allegheny County Health Department | |  
 |11 March |Spring Break |*no seminar* |  
 |18 March |Career panel | |  
