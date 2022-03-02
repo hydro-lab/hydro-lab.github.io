@@ -5,7 +5,8 @@ title: Skills
 # Fieldwork Skills  
 ## Knots  
 Videos and other resources for knot tying:  
-- [Retraced figure 8]()  
+- [Retraced figure 8](https://youtu.be/LjVaDNAfdzA)  
+- [Hitches](https://youtu.be/hKz32UZgM60)  
 
 ## Map and Compass  
 ### Magnetic Declination  
