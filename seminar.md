@@ -18,10 +18,10 @@ title: Seminar
 |25 February |John Gardner, University of Pittsburgh |*River Science from Space* [flyer](https://duq.box.com/s/fjkel8a0kydscbc255fc4wbgu3sykocj) |  
 |04 March |Aja Ellis, Allegheny County Health Department |*Sub-micron particles and planet-sized problems* |  
 |11 March |Spring Break |*no seminar* |  
-|18 March |Career panel | |  
+|18 March | |*no seminar* |  
 |25 March |*reserved for thesis defense* | |  
 |01 April |Donna Beck, Gumberg Library |Literature search, manuscripts, publishing |  
-|08 April |*reserved for thesis defense* | |  
+|08 April |Career panel | |  
 |15 April |Good Friday |*no seminar* |  
 |22 April |Kevin Rose, Rensselaer Polytechnic Institute | |  
 
