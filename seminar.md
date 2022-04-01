@@ -19,9 +19,9 @@ title: Seminar
 |04 March |Aja Ellis, Allegheny County Health Department |*Sub-micron particles and planet-sized problems* |  
 |11 March |Spring Break |*no seminar* |  
 |18 March | |*no seminar* |  
-|25 March |*reserved for thesis defense* | |  
+|25 March | |*no seminar* |  
 |01 April |Donna Beck, Gumberg Library |Literature search, manuscripts, publishing |  
-|08 April |Career panel | |  
+|08 April |Career panel, *CERE Alumni* | |  
 |15 April |Good Friday |*no seminar* |  
 |22 April |Kevin Rose, Rensselaer Polytechnic Institute | |  
 
