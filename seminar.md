@@ -23,7 +23,7 @@ title: Seminar
 |01 April |Donna Beck, Gumberg Library |Literature search, manuscripts, publishing |  
 |08 April |Career panel, *CERE Alumni* | |  
 |15 April |Good Friday |*no seminar* |  
-|22 April |Kevin Rose, Rensselaer Polytechnic Institute | |  
+|22 April |Kevin Rose, Rensselaer Polytechnic Institute |Understanding Climate Change Impacts on Lakes: from Ice to Oxygen [flyer](https://duq.box.com/s/1wsmk0bsojwi11zize5wm552lfzhol7w) |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
