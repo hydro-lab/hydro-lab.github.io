@@ -4,10 +4,28 @@ title: Seminar
 ---
 # Environmental Science Seminar  
 
-## Spring 2022 Schedule  
+## Fall 2022 Schedule  
 - Seminars are held on Fridays at 12:00pm  
 - Fisher 214  
 - [RSVP](https://bit.ly/ESsemRSVP) is requested, but not required
+
+*TBA*  
+
+## Responsible Conduct of Research  
+Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
+
+### Case Studies  
+
+|Year      |Case          |
+|----------|--------------|
+|Fall 2022 |*TBA*         |
+|Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
+
+## Diversity, Equity, and Inclusion  
+[Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
+
+## Previous Semester Schedules  
+### Spring 2022  
 
 |Date|Speaker|Title|
 |---|---|---|
@@ -25,17 +43,6 @@ title: Seminar
 |15 April |Good Friday |*no seminar* |  
 |22 April |Kevin Rose, Rensselaer Polytechnic Institute |Understanding Climate Change Impacts on Lakes: from Ice to Oxygen [flyer](https://duq.box.com/s/1wsmk0bsojwi11zize5wm552lfzhol7w) |  
 
-## Responsible Conduct of Research  
-Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
-
-### Case Studies  
-
-|Year      |Case          |
-|----------|--------------|
-|Fall 2022 |*TBA*         |
-|Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
-
-## Previous Semester Schedules  
 ### Fall 2021  
 
 |Date|Speaker|Title|
