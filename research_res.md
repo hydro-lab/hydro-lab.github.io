@@ -4,7 +4,7 @@ title: Resources
 ---
 # SDS Access:  
 - [Fisher Database](https://www.fishersci.com/us/en/catalog/search/sdshome.html)  
-- [Lab inventory SDSs](https://duq.box.com/s/7tsi7zsttxt1rnrc97ljvwotnmend6ce)  
+- [Lab inventory SDSs](https://duq.box.com/s/cxajdf6jszn1sn0frjt6sbnj3bfrxtu1)  
 
 # Research Resources  
 
