@@ -9,7 +9,22 @@ title: Seminar
 - Fisher 214  
 - [RSVP](https://bit.ly/ESsemRSVP) is requested, but not required
 
-*TBA*  
+|Date|Speaker|Title|  
+|---|---|---|  
+|02 September|Journal article discussion |[Pittsburgh Air Pollution Changes](https://duq.box.com/s/97swj6ebw1tb36awejzi8e52uq238sw6) |  
+|09 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
+|16 September|Faculty research overview | |  
+|23 September| | |  
+|30 September| | |  
+|07 October| | |  
+|14 October| | |  
+|21 October|David Kahler |Responsible Conduct of Research seminar |  
+|28 October| | |  
+|04 November| | |  
+|11 November| |*no seminar* |  
+|18 November| | |  
+|25 November|Thanksgiving Break |*no seminar* |  
+|02 December|*TBA* | |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
