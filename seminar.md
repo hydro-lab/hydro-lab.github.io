@@ -12,8 +12,8 @@ title: Seminar
 |Date|Speaker|Title|  
 |---|---|---|  
 |02 September|Journal article discussion |[Pittsburgh Air Pollution Changes](https://duq.box.com/s/97swj6ebw1tb36awejzi8e52uq238sw6) |  
-|09 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
-|16 September|Faculty research overview | |  
+|09 September|Faculty research overview | |  
+|16 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
 |23 September| | |  
 |30 September| | |  
 |07 October| | |  
