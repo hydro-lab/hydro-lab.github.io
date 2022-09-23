@@ -10,7 +10,9 @@ toc:
       - page: Overview
         url: /research.html
       - page: Publications
-        -url: /pubs.html
+        url: /pubs.html
+      - page: Pure Thirst
+        url: /purethirst.html
       - page: Weather Station
         url: /weather.html
       - page: Resources
