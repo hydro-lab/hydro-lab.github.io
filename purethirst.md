@@ -8,10 +8,10 @@ Connect with the Pure Thirst student organization via [Campus Link](https://duq.
 
 ## Wine into Water
 **an event to benefit Pure Thirst**  
-- 4:30 to 6:30 pm  
- - 10 October 2022  
- - Africa Room, Student Union building on Duquesne's campus  
- - Tickets are $25 and are only guarenteed before 03 October  
+- 4:30 to 7:00 pm  
+ - Monday 14 November 2022  
+ - Power Center (Ballroom B&C)  
+ - Tickets are $25 and are only guarenteed before 04 November  
  - - [https://commerce.cashnet.com/PURE?itemcode=PURE-THIRST2](https://commerce.cashnet.com/PURE?itemcode=PURE-THIRST2)  
  - - *Departmental purchases should contact David Kahler at kahlerd@duq.edu*  
 
