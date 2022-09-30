@@ -16,7 +16,7 @@ title: Seminar
 |16 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
 |23 September| |*no seminar* |  
 |30 September| |*no seminar* |  
-|07 October|Mary Kate |*article TBA* |  
+|07 October|Mary Kate |[Kouloumpis et al., 2020](https://duq.box.com/s/cqnma026ai7yjo2kpwbrea6d1xq6lz6u) |  
 |14 October|Kiley |*article TBA* |  
 |21 October|Brianna |*article TBA* |  
 |28 October|David Kahler |Responsible Conduct of Research seminar |  
