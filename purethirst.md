@@ -6,7 +6,7 @@ title: Pure Thirst
 
 Connect with the Pure Thirst student organization via [Campus Link](https://duq.campuslabs.com/engage/organization/duptc).  
 
-## Wine into Water
+## [Wine into Water](https://drive.google.com/file/d/1Zht5qBRgHk2wemgiqgNCdDNGYTBpI4n6/view?usp=sharing)  
 **an event to benefit Pure Thirst**  
 - 4:30 to 7:00 pm  
  - Monday 14 November 2022  
