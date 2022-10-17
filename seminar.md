@@ -18,7 +18,7 @@ title: Seminar
 |30 September| |*no seminar* |  
 |07 October|Mary Kate |[Kouloumpis et al., 2020](https://duq.box.com/s/cqnma026ai7yjo2kpwbrea6d1xq6lz6u) |  
 |14 October|Kiley |[Clark et al., 2022](https://duq.box.com/s/6bydde1om4mr1hlpajdkei2utn9fyutr) |  
-|21 October|Brianna |*article TBA* |  
+|21 October|Brianna |[Loyd and DeVore, 2010](https://duq.box.com/s/sfd7ghk6fd3wjts9ae120b3vxewpskwm) |  
 |28 October|David Kahler |Responsible Conduct of Research seminar |  
 |04 November|Jack |*article TBA* |  
 |11 November|Maria |*article TBA* |  
