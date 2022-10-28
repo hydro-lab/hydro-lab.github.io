@@ -33,7 +33,7 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 
 |Year      |Case          |
 |----------|--------------|
-|Fall 2022 |*TBA*         |
+|Fall 2022 |[Data management case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2019%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf), [COI case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2021%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf) |
 |Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
 
 ## Diversity, Equity, and Inclusion  
