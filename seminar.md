@@ -20,7 +20,7 @@ title: Seminar
 |14 October|Kiley |[Clark et al., 2022](https://duq.box.com/s/6bydde1om4mr1hlpajdkei2utn9fyutr) |  
 |21 October|Brianna |[Loyd and DeVore, 2010](https://duq.box.com/s/sfd7ghk6fd3wjts9ae120b3vxewpskwm) |  
 |28 October|David Kahler |Responsible Conduct of Research seminar |  
-|04 November|Jack |*article TBA* |  
+|04 November|Jack |[Srimurali et al., 1998](https://duq.box.com/s/qr94mouv2b4yjds42vbb8vxsgdjlc69k) |  
 |11 November|Maria |*article TBA* |  
 |18 November| |*no seminar* |  
 |25 November|Thanksgiving Break |*no seminar* |  
