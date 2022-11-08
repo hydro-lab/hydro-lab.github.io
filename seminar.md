@@ -21,7 +21,7 @@ title: Seminar
 |21 October|Brianna |[Loyd and DeVore, 2010](https://duq.box.com/s/sfd7ghk6fd3wjts9ae120b3vxewpskwm) |  
 |28 October|David Kahler |Responsible Conduct of Research seminar |  
 |04 November|Jack |[Srimurali et al., 1998](https://duq.box.com/s/qr94mouv2b4yjds42vbb8vxsgdjlc69k) |  
-|11 November|Maria and Majidah |[First](), [Ali Zainy, 2017](https://duq.box.com/s/g2cnun10tf01jm3xdzmgdnzm7q4p17vb) |  
+|11 November|Maria and Majidah |[Schopfer et al., 2020](https://duq.box.com/s/8z6m5r7wrbvs7iig8i5a3oh0lnpzy2cp), [Ali Zainy, 2017](https://duq.box.com/s/g2cnun10tf01jm3xdzmgdnzm7q4p17vb) |  
 |18 November| |*no seminar* |  
 |25 November|Thanksgiving Break |*no seminar* |  
 |02 December|Majidah |*article TBA* |  
