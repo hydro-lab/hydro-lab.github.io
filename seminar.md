@@ -4,27 +4,27 @@ title: Seminar
 ---
 # Environmental Science Seminar  
 
-## Fall 2022 Schedule  
+## Spring 2023 Schedule  
 - Seminars are held on Fridays at 12:00pm  
 - Fisher 214  
 - [RSVP](https://bit.ly/ESsemRSVP) is requested, but not required
 
 |Date|Speaker|Title|  
 |---|---|---|  
-|02 September|Journal article discussion |[Pittsburgh Air Pollution Changes](https://duq.box.com/s/97swj6ebw1tb36awejzi8e52uq238sw6) |  
-|09 September|Faculty |Faculty research overview |  
-|16 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
-|23 September| |*no seminar* |  
-|30 September| |*no seminar* |  
-|07 October|Mary Kate |[Kouloumpis et al., 2020](https://duq.box.com/s/cqnma026ai7yjo2kpwbrea6d1xq6lz6u) |  
-|14 October|Kiley |[Clark et al., 2022](https://duq.box.com/s/6bydde1om4mr1hlpajdkei2utn9fyutr) |  
-|21 October|Brianna |[Loyd and DeVore, 2010](https://duq.box.com/s/sfd7ghk6fd3wjts9ae120b3vxewpskwm) |  
-|28 October|David Kahler |Responsible Conduct of Research seminar |  
-|04 November|Jack |[Srimurali et al., 1998](https://duq.box.com/s/qr94mouv2b4yjds42vbb8vxsgdjlc69k) |  
-|11 November|Maria and Majidah |[Schopfer et al., 2020](https://duq.box.com/s/8z6m5r7wrbvs7iig8i5a3oh0lnpzy2cp), [Ali Zainy, 2017](https://duq.box.com/s/g2cnun10tf01jm3xdzmgdnzm7q4p17vb) |  
-|18 November| |*no seminar* |  
-|25 November|Thanksgiving Break |*no seminar* |  
-|02 December|Majidah |*article TBA* |  
+|20 January | | |  
+|27 January | | |  
+|03 February | | |  
+|10 February |Adam Ward, Oregon State University | |  
+|17 February | | |  
+|24 February | | |  
+|03 March |Spring break |*no seminar* |  
+|10 March | |*no seminar* |  
+|17 March |George Allen, Virginia Tech | |  
+|24 March | | |  
+|31 March | | |  
+|07 April |Easter break |*no seminar* |  
+|14 April |Career panel, *CERE Alumni* | |  
+|21 April | | |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
@@ -40,13 +40,26 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
 
 ## Previous Semester Schedules  
+### Fall 2022 Schedule  
+
+|Date|Speaker|Title|  
+|---|---|---|  
+|02 September|Journal article discussion |[Pittsburgh Air Pollution Changes](https://duq.box.com/s/97swj6ebw1tb36awejzi8e52uq238sw6) |  
+|09 September|Faculty |Faculty research overview |  
+|16 September|Panel discussion |Research Mechanics: authorship, peer-review, funding |  
+|07 October|Mary Kate |[Kouloumpis et al., 2020](https://duq.box.com/s/cqnma026ai7yjo2kpwbrea6d1xq6lz6u) |  
+|14 October|Kiley |[Clark et al., 2022](https://duq.box.com/s/6bydde1om4mr1hlpajdkei2utn9fyutr) |  
+|21 October|Brianna |[Loyd and DeVore, 2010](https://duq.box.com/s/sfd7ghk6fd3wjts9ae120b3vxewpskwm) |  
+|28 October|David Kahler |Responsible Conduct of Research seminar |  
+|04 November|Jack |[Srimurali et al., 1998](https://duq.box.com/s/qr94mouv2b4yjds42vbb8vxsgdjlc69k) |  
+|11 November|Maria and Majidah |[Schopfer et al., 2020](https://duq.box.com/s/8z6m5r7wrbvs7iig8i5a3oh0lnpzy2cp), [Ali Zainy, 2017](https://duq.box.com/s/g2cnun10tf01jm3xdzmgdnzm7q4p17vb) |  
+
 ### Spring 2022  
 
 |Date|Speaker|Title|
 |---|---|---|
 |28 January |Journal Club, *The effects of defaunation on plants' capacity to track climate change* |[Box](https://duq.box.com/s/zzvp4spe5tjr6o887lu15dz25zunccx8), [SI](https://www.science.org/doi/10.1126/science.abk3510) |  
 |04 February |Robert Sroufe, Management Department |Idea Cafe: Climate Change *special time: 11:00am to 1:00pm* |  
-|11 February | | |  
 |18 February |Corey Harper, Carnegie Mellon University |*Transitioning to a Smarter and More Sustainable Transportation System*, [flyer](https://duq.box.com/s/61yjixhk32ljtdeja4lm68limjcyyris), [abstract](https://duq.box.com/s/ftldhir1riu2ca8a4jrxbqj6okqro0tt) |  
 |25 February |John Gardner, University of Pittsburgh |*River Science from Space* [flyer](https://duq.box.com/s/fjkel8a0kydscbc255fc4wbgu3sykocj) |  
 |04 March |Aja Ellis, Allegheny County Health Department |*Sub-micron particles and planet-sized problems* |  
