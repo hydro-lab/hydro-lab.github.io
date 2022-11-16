@@ -13,17 +13,17 @@ title: Seminar
 |---|---|---|  
 |20 January | | |  
 |27 January | | |  
-|03 February | | |  
+|03 February |Sarah Cooley, University of Oregon | |  
 |10 February |Adam Ward, Oregon State University | |  
 |17 February | | |  
-|24 February | | |  
+|24 February |Lauren McPhillips, Pennsylvania State University | |  
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
 |24 March | | |  
 |31 March | | |  
 |07 April |Easter break |*no seminar* |  
-|14 April |Career panel, *CERE Alumni* | |  
+|14 April |Career panel, *CERE Alumni* |tentative |  
 |21 April | | |  
 
 ## Responsible Conduct of Research  
