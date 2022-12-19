@@ -20,7 +20,7 @@ title: Seminar
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
-|24 March | | |  
+|24 March |Dannielle Pratt, University of Delaware | |  
 |31 March | | |  
 |07 April |Easter break |*no seminar* |  
 |14 April |Career panel, *CERE Alumni* |tentative |  
