@@ -20,11 +20,11 @@ title: Seminar
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
-|24 March |Danielle Pratt, University of Delaware | |  
-|31 March | | |  
+|24 March | | |  
+|31 March |Danielle Pratt, University of Delaware | |  
 |07 April |Easter break |*no seminar* |  
-|14 April |Career panel, *CERE Alumni* |tentative |  
-|21 April | | |  
+|14 April |Reserved for undergradaute honors theses presentations | |  
+|21 April |Career panel, *CERE Alumni* |tentative |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
