@@ -21,7 +21,7 @@ title: Seminar
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
 |24 March | | |  
-|31 March |Danielle Pratt, University of Delaware | |  
+|31 March |Danielle Pratt, University of Delaware |*The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone* |  
 |07 April |Easter break |*no seminar* |  
 |14 April |Reserved for undergradaute honors theses presentations | |  
 |21 April |Career panel, *CERE Alumni* |tentative |  
