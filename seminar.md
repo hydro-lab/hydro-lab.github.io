@@ -40,7 +40,7 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
 
 ## Previous Semester Schedules  
-### Fall 2022 Schedule  
+### Fall 2022  
 
 |Date|Speaker|Title|  
 |---|---|---|  
@@ -75,9 +75,17 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 
 |Date|Speaker|Title|
 |---|---|---|
-|10 September|Neil Brown, Duquesne University|[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf)|  
-|17 September|[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff)|Duquesne Research Projects|  
-|01 October|Cassy Rodriguez, WE4F/United States Agency for International Development|Securing Water for Food Grand Challenge|  
-|15 October|Nick Ruhly, Federal Emergency Management Agency|Finances in the National Flood Insurance Program|  
-|29 October|David Kahler|Responsible Conduct of Research seminar|  
-|12 November|Carla Ng, University of Pittsburgh|[Addressing Urgent Questions for PFAS: Integrating Chemistry, Biology, and Engineering to Tackle the PFAS Problem](https://duq.box.com/shared/static/1z45kgilitpq8q89go6iac6jw62pzu0a.pdf)|  
+|10 September |Neil Brown, Duquesne University |[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf) |  
+|17 September |[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff) |Duquesne Research Projects |  
+|01 October |Cassy Rodriguez, WE4F/United States Agency for International Development |Securing Water for Food Grand Challenge |  
+|15 October |Nick Ruhly, Federal Emergency Management Agency |Finances in the National Flood Insurance Program |  
+|29 October |David Kahler |Responsible Conduct of Research seminar |  
+|12 November |Carla Ng, University of Pittsburgh |[Addressing Urgent Questions for PFAS: Integrating Chemistry, Biology, and Engineering to Tackle the PFAS Problem](https://duq.box.com/shared/static/1z45kgilitpq8q89go6iac6jw62pzu0a.pdf) |  
+
+### Spring 2020  
+|Date|Speaker|Title|
+|---|---|---|
+|14 February |Renee Corbett, Medicines Sans Frontieres |Experience Working with Doctors Without Borders as a Water and Sanitation Manager in South Sudan |  
+|28 February |Steven Wei, Slippery Rock University |Mine Drainage Treatment: Nanomaterials and Environmental Sustainability |  
+
+*Remaining seminars were canceled or rescheduled due to COVID-19 restrictions*  
