@@ -11,9 +11,9 @@ title: Seminar
 
 |Date|Speaker|Title|  
 |---|---|---|  
-|20 January | | |  
-|27 January | | |  
-|03 February |Sarah Cooley, University of Oregon | |  
+|20 January | |*no seminar* |  
+|27 January | |*no seminar* |  
+|03 February |Sarah Cooley, University of Oregon |[New Directions in Observing Surface Water from Space](https://duq.box.com/s/rzkhfjyf15ar994w33g60al17gc5ntj8) |  
 |10 February |Adam Ward, Oregon State University | |  
 |17 February | | |  
 |24 February |Lauren McPhillips, Pennsylvania State University | |  
