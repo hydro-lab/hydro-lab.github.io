@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications  
+- Bakar, S. A., Okular, K., Whitewood, A., Glancey, K. M., & Kahler, D. M., Fluoride in Drinking Water and Tea in the Arusha Region of Tanzania.  Under review.  
+- Mukhawana, M. B., Kanyerere, T., & Kahler, D. M. (2023). Review of In-Situ and Remote Sensing-Based Indices and Their Applicability for Integrated Drought Monitoring in South Africa. Water, 15(2). https://doi.org/10.3390/w15020240  
 - Lange, C. L., Smith, V. A., & Kahler, D. M. (2022). Pittsburgh Air Pollution Changes During the COVID-19 Lockdown. Environmental Advances, 7, 100149. https://doi.org/https://doi.org/10.1016/j.envadv.2021.100149.  
 - Hill, C. L., McCain, K., Nyathi, M. E., Edokpayi, J. N., Kahler, D. M., Operario, D. J., et al. (2020). Impact of low-cost point-of-use water treatment technologies on enteric infections and growth among children in limpopo, South Africa. American Journal of Tropical Medicine and Hygiene, 103(4). https://doi.org/10.4269/ajtmh.20-0228.  
 - Jackson, K. N., Kahler, D. M., Kucharska, I., Rekosh, D., Hammarskjold, M.-L., & Smith, J. A. (2020). Inactivation of MS2 Bacteriophage and Adenovirus with Silver and Copper in Solution and Embedded in Ceramic Water Filters. Journal of Environmental Engineering, 146(3), 04019130. https://doi.org/10.1061/(ASCE)EE.1943-7870.0001634.  
@@ -14,11 +16,19 @@ title: Publications
 - Kahler, D. M., & Brutsaert, W. (2006). Complementary relationship between daily evaporation in the environment and pan evaporation. Water Resources Research, 42(5). https://doi.org/10.1029/2005WR004541.  
 
 ## Presentations  
+- Bakar, S.A., Kahler, D.M., & Lakshmi, V.  (2022). Modeling Groundwater Resources for Improved Management within the Sand River Catchment at the Soutpansberg Mountains: A Case Study in South Africa. American Geophysical Union 2022 Fall Meeting (H25I-1222). Chicago, IL.  
+- Zuccolotto, G., and Kahler, D. M., (2022). Assessing the Contribution of Relative Sea Level Rise to Salinization of the Lower Limpopo River in Mozambique. American Geophysical Union 2022 Fall Meeting (H32C-08). Chicago, IL.  
+- Bakar, S.A. and Kahler, D.M., (2021). Hydrologic Modeling with Remote Sensing for Groundwater Resources Management within the Sand River Catchment, South Africa. American Geophysical Union 2021 Fall Meeting (H23H-05). New Orleans, LA.  
+- Zuccolotto, G., and Kahler, D. M., (2021). Monitoring Groundwater Withdrawal and Potential Land Subsidence in The Limpopo River Basin, Mozambique with Remote Sensing. American Geophysical Union 2021 Fall Meeting (H31F-07). New Orleans, LA.  
+- Bakar, S.A. and Kahler, D. M., (2021). Novel Application of Remote Sensing, Geotechnical Measurements, and Groundwater Models for Improved Water Resources Management within the Limpopo River Basin. International Shared Aquifer Resources Management 2021 Conference. December 6th -9th, 2021, Paris, France.  
 - Edokpayi, J. N., Sharp, G., Rose, K. C., Kahler, D. M. (2020). A SWOT analysis of Water Resource Management of the Limpopo River Basin. In Water Institute of Southern Africa 2020 Virtual Biennial Conference and Exhibition.  Johannesburg, South Africa.
 - Okular, K., Bakar, S., Glancey, K., Whitewood, A., Goldschmidt, B., & Kahler, D. M. (2019). Fluoride removal in drinking water with augmented bentonite and community perceptions in Arusha, Tanzania. In UNC Water and Health Conference. Chapel Hill, NC, USA.
 - Martin, M. L., Glancey, K. M., & Kahler, D. M. (2018). Method Development for Remote Sensing of River Flow with Limited Ground-Based Measurements. In AGU Fall Meeting (pp. H43G-2504). Washington, DC.
 - Glancey, K. M., Martin, M. L., Edokpayi, J. N., & Kahler, D. M. (2018). Removal of Excess Fluoride from Drinking-Water by Adsorption: Results from Mixed Smectite Clay and Diceriocayum eriocarpum. In AGU Fall Meeting (pp. H31J-2031). Washington, DC.
 
 ## Theses  
+- Bakar, S. (2022). Hydrologic modeling with remote sensing for the estimation of groundwater resources within the Sand River Catchment, South Africa (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2060](https://dsc.duq.edu/etd/2060)  
+- Zuccolotto, G. (2022). Assessing the Risk of Land Subsidence in the Lower Limpopo River Basin, Mozambique with Remote Sensing (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2034](https://dsc.duq.edu/etd/2034)  
+- Bachtlin, A. (2022). Turbulent Transport of Dissolved Oxygen in Natural Channels (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2050](https://dsc.duq.edu/etd/2050)  
 - Lange, C. L. (2021). Air Pollution in the Steel City: Assessing the Influence of COVID-19 on Air Pollution in Allegheny County (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1982](https://dsc.duq.edu/etd/1982)  
 - Okular, K. (2020). Fluoride Removal with Augmented Bentonite in Drinking Water and Community Perceptions in Arusha, Tanzania (Master's thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/1945](https://dsc.duq.edu/etd/1945/)  

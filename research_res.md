@@ -51,6 +51,10 @@ This plan is for internal use only.  Others may use or modify; however, the PI, 
 ## Fieldwork Safety Guidelines
 USGS Guide for Safe Field Operations  
 
+## Language Resources  
+Mango Languages, Duquesne University, provides access to Mango Languages for language learning.  
+- [Mango Languages](https://guides.library.duq.edu/mango)  
+
 ## Laboratory Safety
 Duquesne University provides online laboratory safety training and several laboratory safety resources:
 - [http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training](http://www.duq.edu/about/departments-and-offices/environmental-health-and-safety/training)  
@@ -58,35 +62,22 @@ Duquesne University provides online laboratory safety training and several labor
 
 Always report any injuries to the PI immediately.  
 
-# Research Ethics
-Ethics and the responsible conduct of research (RCR) is fundamental; however, this topic is largely overlooked in the training of scientists and engineers.  The following resources are provided to supplement any formal training:
+## Research Ethics
+Ethics and the responsible conduct of research (RCR) is fundamental; however, this topic is largely overlooked in the training of scientists and engineers.  The following resources are provided to supplement any formal training:  
+- [National Society of Professional Engineers Code of Ethics](https://www.nspe.org/resources/ethics/code-ethics)  
+- [American Geophysical Union Scientific Integrity and Professional Ethics](https://ethics.agu.org/files/2013/03/Scientific-Integrity-and-Professional-Ethics.pdf)  
+- National Science Foundation [requirements](https://www.nsf.gov/bfa/dias/policy/rcr.jsp) for RCR  
+- National Institutes of Health [requirements](https://oir.nih.gov/sourcebook/ethical-conduct/responsible-conduct-research-training) for RCR  
+- NIH [RCR Resources](https://ori.hhs.gov/sites/default/files/rcrintro.pdf)  
+- Duquesne University [Research Resources (sign-in required)](https://duq.box.com/s/u87lesgmu7pl6zc7ha2kcda4djfp67ex)  
 
-
-
-National Society of Professional Engineers Code of Ethics: https://www.nspe.org/resources/ethics/code-ethics
-
-American Geophysical Union Scientific Integrity and Professional Ethics:
-https://ethics.agu.org/files/2013/03/Scientific-Integrity-and-Professional-Ethics.pdf
-
-
-National Science Foundation requirements for RCR:
-https://www.nsf.gov/bfa/dias/policy/rcr.jsp
-
-National Institutes of Health requirements for RCR:  
-https://oir.nih.gov/sourcebook/ethical-conduct/responsible-conduct-research-training
-
-https://ori.hhs.gov/sites/default/files/rcrintro.pdf
-
-Research Resources (sign-in required):  
-https://duq.box.com/s/u87lesgmu7pl6zc7ha2kcda4djfp67ex
-
-Duquesne University Research:
+# Duquesne University Research:
 http://www.duq.edu/research/research-conduct
 Students working on hydrology research should expect to take:
 - Physical Science Responsible Conduct of Research  
 - Social & Behavioral Research Basic/Refresher  
 
-Human Subjects Protections  
+# Human Subjects Protections  
 Some research conducted may involve human subjects.  Any researcher involved in research that involves human subjects must follow institutional guidelines.  The best place to start is with the Institutional Review Board:
 http://www.duq.edu/research/research-conduct/human-subjects---irb
 Any students that engage in research with human subjects should take the appropriate IRB course, likely that for Social/Behavioral/Educational research.

@@ -11,20 +11,20 @@ title: Seminar
 
 |Date|Speaker|Title|  
 |---|---|---|  
-|20 January | | |  
-|27 January | | |  
-|03 February |Sarah Cooley, University of Oregon | |  
+|20 January | |*no seminar* |  
+|27 January | |*no seminar* |  
+|03 February |Sarah Cooley, University of Oregon |[New Directions in Observing Surface Water from Space](https://duq.box.com/s/rzkhfjyf15ar994w33g60al17gc5ntj8) |  
 |10 February |Adam Ward, Oregon State University | |  
 |17 February | | |  
 |24 February |Lauren McPhillips, Pennsylvania State University | |  
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
-|24 March |Dannielle Pratt, University of Delaware | |  
-|31 March | | |  
+|24 March |Career panel, *CERE Alumni* |tentative |  
+|31 March |Danielle Pratt, University of Delaware |*The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone* |  
 |07 April |Easter break |*no seminar* |  
-|14 April |Career panel, *CERE Alumni* |tentative |  
-|21 April | | |  
+|14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
+|21 April |Reserved for undergradaute honors theses presentations | |  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
@@ -40,7 +40,7 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
 
 ## Previous Semester Schedules  
-### Fall 2022 Schedule  
+### Fall 2022  
 
 |Date|Speaker|Title|  
 |---|---|---|  
@@ -75,9 +75,17 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 
 |Date|Speaker|Title|
 |---|---|---|
-|10 September|Neil Brown, Duquesne University|[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf)|  
-|17 September|[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff)|Duquesne Research Projects|  
-|01 October|Cassy Rodriguez, WE4F/United States Agency for International Development|Securing Water for Food Grand Challenge|  
-|15 October|Nick Ruhly, Federal Emergency Management Agency|Finances in the National Flood Insurance Program|  
-|29 October|David Kahler|Responsible Conduct of Research seminar|  
-|12 November|Carla Ng, University of Pittsburgh|[Addressing Urgent Questions for PFAS: Integrating Chemistry, Biology, and Engineering to Tackle the PFAS Problem](https://duq.box.com/shared/static/1z45kgilitpq8q89go6iac6jw62pzu0a.pdf)|  
+|10 September |Neil Brown, Duquesne University |[Environmental Equity: What does this mean for Environmental Science education?](https://duq.box.com/shared/static/jdi7y6ruwiu02wu11nf79135u8kotu53.pdf) |  
+|17 September |[Faculty](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-environmental-science-and-management/about/faculty-and-staff) |Duquesne Research Projects |  
+|01 October |Cassy Rodriguez, WE4F/United States Agency for International Development |Securing Water for Food Grand Challenge |  
+|15 October |Nick Ruhly, Federal Emergency Management Agency |Finances in the National Flood Insurance Program |  
+|29 October |David Kahler |Responsible Conduct of Research seminar |  
+|12 November |Carla Ng, University of Pittsburgh |[Addressing Urgent Questions for PFAS: Integrating Chemistry, Biology, and Engineering to Tackle the PFAS Problem](https://duq.box.com/shared/static/1z45kgilitpq8q89go6iac6jw62pzu0a.pdf) |  
+
+### Spring 2020  
+|Date|Speaker|Title|
+|---|---|---|
+|14 February |Renee Corbett, Medicines Sans Frontieres |Experience Working with Doctors Without Borders as a Water and Sanitation Manager in South Sudan |  
+|28 February |Steven Wei, Slippery Rock University |Mine Drainage Treatment: Nanomaterials and Environmental Sustainability |  
+
+*Remaining seminars were canceled or rescheduled due to COVID-19 restrictions*  
