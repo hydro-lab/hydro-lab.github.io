@@ -41,8 +41,7 @@ https://guides.library.duq.edu/az.php
 One of the most frustrating aspects of literature review is tracking citations.  I recommend finding a citation software that you like and sticking with it.  Two features are very useful and have become standard: word processing integration (e.g., MS Word plugin) and web importers (buttons that automatically download the citation data).  More information can be found on the library website:
 http://guides.library.duq.edu/citation_management
 
-I have found that Mendeley satisfies all of my needs.  Mendeley has a web-based and 
-desktop interface and the website has a number of other features such as a grant database, recommendations for papers, and a data repository.
+I have found that Mendeley satisfies all of my needs.  Mendeley has a web-based and desktop interface and the website has a number of other features such as a grant database, recommendations for papers, and a data repository.
 http://www.mendeley.com
 
 ## Fieldwork Safety Plan
@@ -50,6 +49,8 @@ This plan is for internal use only.  Others may use or modify; however, the PI, 
 
 ## Fieldwork Safety Guidelines
 USGS Guide for Safe Field Operations  
+
+Duquesne University [International Travel Registration](https://duq-oip.terradotta.com/index.cfm?FuseAction=Students.Apply&Program_ID=40262)  
 
 ## Language Resources  
 Mango Languages, Duquesne University, provides access to Mango Languages for language learning.  
