@@ -14,7 +14,7 @@ title: Seminar
 |20 January | |*no seminar* |  
 |27 January | |*no seminar* |  
 |03 February |Sarah Cooley, University of Oregon |[New Directions in Observing Surface Water from Space](https://duq.box.com/s/rzkhfjyf15ar994w33g60al17gc5ntj8) |  
-|10 February |Adam Ward, Oregon State University | |  
+|10 February | |*no seminar* |  
 |17 February | | |  
 |24 February |Lauren McPhillips, Pennsylvania State University | |  
 |03 March |Spring break |*no seminar* |  
@@ -25,6 +25,8 @@ title: Seminar
 |07 April |Easter break |*no seminar* |  
 |14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
 |21 April |Reserved for undergradaute honors theses presentations | |  
+
+Adam Ward, Oregon State University, will be rescheduled.  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
