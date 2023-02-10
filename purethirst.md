@@ -6,13 +6,28 @@ title: Pure Thirst
 
 Connect with the Pure Thirst student organization via [Campus Link](https://duq.campuslabs.com/engage/organization/duptc).  
 
-## [Wine into Water](https://drive.google.com/file/d/1Zht5qBRgHk2wemgiqgNCdDNGYTBpI4n6/view?usp=sharing)  
-**an event to benefit Pure Thirst**  
-- 4:30 to 7:00 pm  
- - Monday 14 November 2022  
- - Power Center (Ballroom B&C)  
- - Tickets are $25 and are only guarenteed before 04 November  
- - - [https://commerce.cashnet.com/PURE?itemcode=PURE-THIRST2](https://commerce.cashnet.com/PURE?itemcode=PURE-THIRST2)  
- - - *Departmental purchases should contact David Kahler at kahlerd@duq.edu*  
+## Application Information  
+To apply to travel with the group to Arusha, Tanzania, please submit the [application form]() by 13 March 2023.  To apply, you should prepare to respond to the following questions:  
+- Name  
+- E-mail address (please use your @duq.edu address)  
+- Class year  
+- School and major  
+- Current cumulative GPA  
+- What are your academic goals for the experience? (respond in one- or two-paragraphs)  
+- Of what student organizations, sports, or other groups are you an active member?  
+- In what service activities do you regularly participate?  Examples may include volunteer with a community organization on an ongoing basis, organize service activities as a leader, or serve in a leadership capacity in student government.  For the purposes of this application, please exclude Pure Thirst activities.  
+- Have you ever traveled outside of the United States? if so,  
+- - Do you live outside of the United States?  
+- - Where have you traveled as an adult and for what purposes?  There is no strict age division, please use your best judgement to decide if you were a child along for the ride or a responsible individual.  
+- - Have you ever traveled under austere conditions (e.g., low- or middle-income countries, service trips, etc)?  
+- Why would you like to participate in this trip?  (respond in one- or two-paragraphs)  
 
-This event will benefit the group's work on water and health in northern Tanzania.  
+## Fundraisers  
+Fundraisers are an important source of awareness and finance for the work the organization does.  
+
+### Coffee Sale  
+
+
+### [Wine into Water](https://drive.google.com/file/d/1Zht5qBRgHk2wemgiqgNCdDNGYTBpI4n6/view?usp=sharing)  
+This event will benefit the group's work on water and health in northern Tanzania.  The event is an annual celebration, usually held in the fall semester to showcase the work done in the previous year on water and health.  
+
