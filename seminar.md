@@ -20,7 +20,7 @@ title: Seminar
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
-|24 March |Career panel, *CERE Alumni* |tentative |  
+|24 March |Brendan Jerrell, [SkyTruth](https://skytruth.org/) | |  
 |31 March |Danielle Pratt, University of Delaware |*The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone* |  
 |07 April |Easter break |*no seminar* |  
 |14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
