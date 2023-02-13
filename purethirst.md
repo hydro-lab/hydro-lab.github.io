@@ -7,7 +7,7 @@ title: Pure Thirst
 Connect with the Pure Thirst student organization via [Campus Link](https://duq.campuslabs.com/engage/organization/duptc).  
 
 ## Application Information  
-To apply to travel with the group to Arusha, Tanzania, please submit the [application form](https://forms.gle/F6RvnVD59jMvj4b7A) by 13 March 2023.  To apply, you should prepare to respond to the following questions:  
+To apply to travel with the group to Arusha, Tanzania, please submit the [application form](https://forms.gle/865VfhXg5KSo2r1r6) by 13 March 2023.  To apply, you should prepare to respond to the following questions:  
 - Name  
 - E-mail address (please use your @duq.edu address)  
 - Class year  
@@ -19,7 +19,7 @@ To apply to travel with the group to Arusha, Tanzania, please submit the [applic
 - Have you ever traveled outside of the United States? if so,  
 - - Do you live outside of the United States?  
 - - Where have you traveled as an adult and for what purposes?  There is no strict age division, please use your best judgement to decide if you were a child along for the ride or a responsible individual.  
-- - Have you ever traveled under austere conditions (e.g., low- or middle-income countries, service trips, etc)?  
+- - Have you ever traveled to a low- or middle-income country?  If so, please explain the circumstances.  
 - Why would you like to participate in this trip?  (respond in one- or two-paragraphs)  
 
 ## Fundraisers  
