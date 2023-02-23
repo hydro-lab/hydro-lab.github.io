@@ -15,8 +15,8 @@ title: Seminar
 |27 January | |*no seminar* |  
 |03 February |Sarah Cooley, University of Oregon |[New Directions in Observing Surface Water from Space](https://duq.box.com/s/rzkhfjyf15ar994w33g60al17gc5ntj8) |  
 |10 February | |*no seminar* |  
-|17 February | | |  
-|24 February |Lauren McPhillips, Pennsylvania State University | |  
+|17 February | |*no seminar* |  
+|24 February |Lauren McPhillips, Pennsylvania State University |[Green infrastructure solutions for stormwater management: how well do they work and how can we do better?](https://duq.box.com/shared/static/tecyn0jyl5yj6vg9st3xjea87bmbgzje.pdf) |  
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech | |  
