@@ -19,9 +19,9 @@ title: Seminar
 |24 February |Lauren McPhillips, Pennsylvania State University |[Green infrastructure solutions for stormwater management: how well do they work and how can we do better?](https://duq.box.com/shared/static/tecyn0jyl5yj6vg9st3xjea87bmbgzje.pdf) |  
 |03 March |Spring break |*no seminar* |  
 |10 March | |*no seminar* |  
-|17 March |George Allen, Virginia Tech | |  
-|24 March |Brendan Jerrell, [SkyTruth](https://skytruth.org/) | |  
-|31 March |Danielle Pratt, University of Delaware |*The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone* |  
+|17 March |George Allen, Virginia Tech |[A Global View of Rivers: Harnessing Satellite Data to Understand Earth’s Changing Freshwater Resources](https://duq.box.com/s/0853u6e9i8po21ghd7201h1axrboqkl6) |  
+|24 March |Brendan Jerrell, [SkyTruth](https://skytruth.org/) |Eye In The Sky: Using Remote Sensing for Good |  
+|31 March |Danielle Pratt, University of Delaware |The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone |  
 |07 April |Easter break |*no seminar* |  
 |14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
 |21 April |Reserved for undergradaute honors theses presentations | |  
