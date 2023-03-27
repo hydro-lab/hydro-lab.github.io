@@ -21,7 +21,7 @@ title: Seminar
 |10 March | |*no seminar* |  
 |17 March |George Allen, Virginia Tech |[A Global View of Rivers: Harnessing Satellite Data to Understand Earth’s Changing Freshwater Resources](https://duq.box.com/s/0853u6e9i8po21ghd7201h1axrboqkl6) |  
 |24 March |Brendan Jerrell, [SkyTruth](https://skytruth.org/) |Eye In The Sky: Using Remote Sensing for Good |  
-|31 March |Danielle Pratt, University of Delaware |The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone |  
+|31 March |Danielle Pratt, University of Delaware |[The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone](https://duq.box.com/shared/static/z425f8wnqgoaqe9cc3d7u6488lvzwabd.pdf) |  
 |07 April |Easter break |*no seminar* |  
 |14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
 |21 April |Reserved for undergradaute honors theses presentations | |  
