@@ -23,10 +23,12 @@ title: Seminar
 |24 March |Brendan Jerrell, [SkyTruth](https://skytruth.org/) |Eye In The Sky: Using Remote Sensing for Good |  
 |31 March |Danielle Pratt, University of Delaware |[The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone](https://duq.box.com/shared/static/z425f8wnqgoaqe9cc3d7u6488lvzwabd.pdf) |  
 |07 April |Easter break |*no seminar* |  
-|14 April |Jerretta Fairley, National Geospatial-Intelligence Agency | |  
+|14 April | |*no seminar* |  
 |21 April |Reserved for undergradaute honors theses presentations | |  
 
-Adam Ward, Oregon State University, will be rescheduled.  
+To be rescheduled:  
+ - Adam Ward, Oregon State University  
+ - Jerretta Fairley, National Geospatial-Intelligence Agency  
 
 ## Responsible Conduct of Research  
 Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
