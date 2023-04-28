@@ -12,14 +12,14 @@ Connect with the Pure Thirst student organization via [Campus Link](https://duq.
 ## Fundraisers  
 Fundraisers are an important source of awareness and finance for the work the organization does.  
 
-### Coffee Sale  
+### Coffee and Chocolate Sale  
 We are pleased to offer:  
  - Sarris Chocolate Covered Pretzel Rods,  
  - Sarris Chocolate Bars at \$2.50,  
  - Morning Blend (Guatemalan and Honduran with notes of Green Apple, Milk Chocolate, and Agave), 12 oz whole bean \$16.25, and  
  - Mensur Abahika (Ethiopian with notes of Orange Juice, Raspberry, and Marshmallow), 12 oz whole bean \$19.50  
 
-Purchase [online](https://commerce.cashnet.com/cashneti/static/storefront/PURE/catalog/item-details/PURE-FUN) - pick-ups will be weekdays in April from 11am-1pm in Fisher 331. (You must pick up at least one day after ordering).  
+Purchase [online](https://commerce.cashnet.com/PURE?itemcode=PURE-FUN) - pick-ups will be weekdays in April from 11am-1pm in Fisher 331. (You must pick up at least one day after ordering).  
 
 If you are not interested in coffee or chocolate please consider donating by making a “purchase” but then emailing me separately that your order was a donation.
 
