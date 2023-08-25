@@ -4,10 +4,49 @@ title: Seminar
 ---
 # Environmental Science Seminar  
 
-## Spring 2023 Schedule  
+## Fall 2023 Schedule  
 - Seminars are held on Fridays at 12:00pm  
 - Fisher 214  
 - [RSVP](https://bit.ly/ESsemRSVP) is requested, but not required
+
+|Date|Speaker|Title|  
+|---|---|---|  
+|25 August | |*no seminar* |  
+|01 September |Journal article discussion |[West et al., 2023](https://www.science.org/doi/10.1126/science.ade3535) |  
+|08 September | |*no seminar* |  
+|15 September |Research | |  
+|22 September |RCR forum | |  
+|29 September | | |  
+|06 October | | |  
+|13 October | | |  
+|20 October | | |  
+|27 October | | |  
+|03 November | | |  
+|10 November | | |  
+|17 November | | |  
+|24 November |Thanksgiving break |*no seminar* |  
+|01 December | | |  
+
+To be rescheduled:  
+ - Adam Ward, Oregon State University  
+ - Jerretta Fairley, National Geospatial-Intelligence Agency  
+
+## Responsible Conduct of Research  
+Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
+
+### Case Studies  
+
+|Year      |Case          |  
+|----------|--------------|  
+|Fall 2023 | |  
+|Fall 2022 |[Data management case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2019%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf), [COI case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2021%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf) |
+|Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
+
+## Diversity, Equity, and Inclusion  
+[Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
+
+## Previous Semester Schedules  
+### Sprint 2023  
 
 |Date|Speaker|Title|  
 |---|---|---|  
@@ -24,26 +63,8 @@ title: Seminar
 |31 March |Danielle Pratt, University of Delaware |[The Hydrological Drivers of Marsh Migration in the Coastal Critical Zone](https://duq.box.com/shared/static/z425f8wnqgoaqe9cc3d7u6488lvzwabd.pdf) |  
 |07 April |Easter break |*no seminar* |  
 |14 April | |*no seminar* |  
-|21 April |Reserved for undergradaute honors theses presentations | |  
+|21 April |Reserved for undergraduate honors theses presentations | |  
 
-To be rescheduled:  
- - Adam Ward, Oregon State University  
- - Jerretta Fairley, National Geospatial-Intelligence Agency  
-
-## Responsible Conduct of Research  
-Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
-
-### Case Studies  
-
-|Year      |Case          |
-|----------|--------------|
-|Fall 2022 |[Data management case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2019%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf), [COI case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2021%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf) |
-|Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
-
-## Diversity, Equity, and Inclusion  
-[Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
-
-## Previous Semester Schedules  
 ### Fall 2022  
 
 |Date|Speaker|Title|  
