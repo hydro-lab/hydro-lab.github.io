@@ -3,47 +3,34 @@ layout: default
 title: Courses
 ---
 # Courses  
-### ENVI 251: Principles of Environmental Science  
-- [Canvas site](https://duq.instructure.com/courses/17676) *requires sign-in*  
-- [Syllabus](principles.html)  
-- [Box](https://duq.box.com/s/22afxame12hjos92qci7l56j9bjq254o) *requires sign-in*  
+- ENVI 251: Principles of Environmental Science  
+- ENVI 404: Computer Tools for Scientists
+- ENVI 414H/415H: Environmental Science Honors Program [Syllabus](ughonors.html)  
+- ENVI 456: Water, Environment, and Development  
+- ENVI 549: Fate and Transport [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
+- ENVI 580: Fluid Mechanics
+- ENVI 591: Hydrogeology  
+- ENVI 699: Graduate Seminar  [Seminar schedule](seminar.html)  
+- GLBH 185: Introduction to Global Health [Water, Sanitation, and Hygiene module](https://sites.google.com/view/duq-hydro-wash-unit/home)  
 
-### ENVI 404: Computer Tools for Scientists
+## Links  
+- [Canvas](https://duq.instructure.com)  
+- [Box](https://duq.box.com)  
 
-### ENVI 414H/415H: Environmental Science Honors Program  
-- [Syllabus](ughonors.html)  
-- *see below for more information*  
+## 360-video Links  
+For best viewing, use the YouTube application on a mobile device.  This will allow you to look around the immersive field to view in different directions.  Alternatively, you can use your cursor to navigate.  Note: Mixing video should be viewed on loop (option in the application).
+- [Mixing (loop)](https://youtu.be/5c_04wPmayA?si=P8enpjShyhGbF6Gq)
+- [Measurements](https://youtu.be/wJG7OCltp_s?si=U_YYb0g4qkQGQSGX)
+- [Operation of the acoustic Doppler current profiler (not 360)](https://duq.box.com/s/ujszu4kmkghofkjgbxkh5w8ciaenjgsw)
+- [Upstream](https://duq.box.com/s/nwqmwmbgvryv9187p9cd3xfkhx9jo7e5)
+- [Effluent](https://duq.box.com/s/x95hgxznzefv76nawm8iuxhizx4rkter)
+- [Downstream](https://duq.box.com/s/sguuhc3eufubtl6v33pp1uk85mv4xu1d)
 
-### ENVI 456: Water, Environment, and Development  
-- [Syllabus](waterdev.html)  
-- [Box](https://duq.box.com/s/m6hrov7c0hr3b3m80qj8kjybva3255pa) *requires sign-in*  
-
-### ENVI 549: Fate and Transport
-- [Canvas site]() *requires sign-in*  
-- [Syllabus](fate.html)  
-- [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
-- [Box](https://duq.box.com/s/wxxszvsxpk3q14zk8t1ysyrulh7anmyy) *requires sign-in*  
-
-### ENVI 580: Fluid Mechanics
-- Syllabus  
-
-### ENVI 591: Hydrogeology  
-- [Syllabus](hydrogeology.html)  
-- [Notes](https://docs.google.com/document/d/1Jumze-WRh4buNz9cWJKi1vckcBNn0ThL_W76oVFIhUo/edit?usp=sharing)  
-- [Box](https://duq.box.com/s/7b9pc0aq74dgho3ypbhs4o2gz8e4a7jc) *requires sign-in*  
-
-### ENVI 699: Graduate Seminar  
-- [Syllabus](seminarclass.html)  
-- [Seminar schedule](seminar.html)  
-
-### GLBH 185: Introduction to Global Health  
-- [Water, Sanitation, and Hygiene module](https://sites.google.com/view/duq-hydro-wash-unit/home)  
-
-## Department Programs  
-### Environmental Science Seminar  
+# Department Programs  
+## Environmental Science Seminar  
 Seminars are held on Fridays at 12:00pm, see the seminar [schedule](seminar.html).
 
-### Environmental Science Undergraduate Research  
+## Environmental Science Undergraduate Research  
 Students may participate in research with or without credit.  Those who wish to obtain credit should enroll in ENVI 390 for 1-3 credits.  In the final year of study, students may apply for the [Environmental Science Honors Program](eshonors.html) and write an undergraduate honors thesis.  
 
 
