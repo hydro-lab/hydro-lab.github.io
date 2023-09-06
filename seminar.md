@@ -22,7 +22,7 @@ title: Seminar
 |20 October | | |  
 |27 October | | |  
 |03 November | | |  
-|10 November | | |  
+|10 November |Sarah Haig, University of Pittsburgh |*Beyond Lead Reduction: Unraveling the Unexpected Responses of Nontuberculous Mycobacteria to Orthophosphate Lead Corrosion Control in a Full-scale Drinking Water Distribution System* |  
 |17 November | | |  
 |24 November |Thanksgiving break |*no seminar* |  
 |01 December | | |  
