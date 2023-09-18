@@ -14,7 +14,7 @@ title: Seminar
 |25 August | |*no seminar* |  
 |01 September |Journal article discussion |[West et al., 2023](https://www.science.org/doi/10.1126/science.ade3535) |  
 |08 September | |*no seminar* |  
-|15 September |Research | |  
+|15 September |Research |[What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
 |22 September |RCR forum | |  
 |29 September | | |  
 |06 October | | |  
