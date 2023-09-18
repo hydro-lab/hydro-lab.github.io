@@ -21,7 +21,7 @@ title: Seminar
 |13 October | | |  
 |20 October | | |  
 |27 October | | |  
-|03 November | | |  
+|03 November | |*no seminar* |  
 |10 November |Sarah Haig, University of Pittsburgh |*Beyond Lead Reduction: Unraveling the Unexpected Responses of Nontuberculous Mycobacteria to Orthophosphate Lead Corrosion Control in a Full-scale Drinking Water Distribution System* |  
 |17 November | | |  
 |24 November |Thanksgiving break |*no seminar* |  
@@ -32,13 +32,13 @@ To be rescheduled:
  - Jerretta Fairley, National Geospatial-Intelligence Agency  
 
 ## Responsible Conduct of Research  
-Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the CITI program, which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct/human-subjects---irb).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
+Responsible Conduct of Research (RCR) is a legal requirement of federally funded research and required for all research students.  The RCR requirement is usually satisfied through standardized training available through the [CITI program](https://about.citiprogram.org/), which can be accessed from Duquesne's Institutional Research Board's [website](https://www.duq.edu/research/research-conduct.php).  RCR, however, is not a single training, it is ongoing learning.  Annual training (such as case studies) is a federal requirement.  We hold a RCR seminar every Fall semester as part of the Undergraduate Honors Thesis program (ENVI 414H), and the Graduate Seminar (ENVI 699).  
 
 ### Case Studies  
 
 |Year      |Case          |  
 |----------|--------------|  
-|Fall 2023 | |  
+|Fall 2023 |Stanford President's alleged data manipulation: [What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
 |Fall 2022 |[Data management case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2019%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf), [COI case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2021%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf) |
 |Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
 
