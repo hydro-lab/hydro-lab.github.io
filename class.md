@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Class Information
+title: Course Policies
 ---
-# Class Information  
+# Course Policies    
 ## Office Hours  
 Thursday 1:00 to 3:00 pm  
 Fisher 333A or Zoom by request  
@@ -10,7 +10,6 @@ Or by appointment
 
 ## Resources  
 Additional course information and resources:  
-- [Course policies](coursepolicies.html)  
 - [Course resources](courseresources.html)  
 - Helpful computer tools at [Duquesne Hydrology Lab](https://github.com/hydro-lab/hydro-lab.github.io/wiki) wiki  
 
@@ -18,7 +17,7 @@ Additional course information and resources:
 Homework will be due in class on the due date.  Late homework may only earn half credit and will not be accepted more than three school days late; furthermore, assignments will not be accepted after the last day of classes.  Exceptions to any due dates or exams must be arranged well in advance and via e-mail.  See instructor for family or personal emergencies.  
 
 ### Academic Integrity  
-Students must adhere to the Duquesne University and [Bayer School of Natural and Environmental Sciences](https://www.duq.edu/academics/colleges-and-schools/natural-and-environmental-sciences/academics/departments-and-programs/academicintegritypolicy-2022.pdf) policies on academic integrity. Examples of prohibited activities include, but are not limited to, cheating, falsification or alteration of data, misrepresentation of another's work, and plagiarism.  
+Students must adhere to the [Duquesne University](https://www.duq.edu/academics/university-catalogs/2023-2024-catalog/graduate/academic-policies/academic-integrity.php) and [Bayer School of Natural and Environmental Sciences](https://www.duq.edu/documents/academics/colleges-and-schools/science/sose-academic-integrity.pdf) policies on academic integrity. Examples of prohibited activities include, but are not limited to, cheating, falsification or alteration of data, misrepresentation of another's work, and plagiarism.  
 
 The use of generative artificial intelligence (AI) has been discussed at length recently.  The rules that I set forth for generative AI (e.g., ChatGPT, Bard, Google Workspace Labs) apply only to my classes and may not reflect anyone else's course policies.  I encourage all of my students to become familiar with generative AI technologies and use them in coursework.  There are two things I ask of my students:  
 - If the assignment does not require the use of a generative AI tool and you choose to use one, please add a statement within the acknowledgements or references section that discloses the use of generative AI, such as:  
