@@ -21,14 +21,14 @@ Lab: Fisher 339A
 ### Course Description
 The purpose of this academic program is to teach students field methods and data analysis in environmental science, specifically, hydrology and biodiversity.  The course will also provide students the historical context of apartheid and give them examples of existing post-apartheid disparities in South Africa.  This is hand-in-hand with the environmental science field methods introduced, as it is marginalized populations that do not have equal or equitable access to infrastructure or environmental quality interventions.  
 
-This course will be conducted at [Kruger National Park](https://tropicalstudies.org/portfolio/skukuza-research-station/) and [University of Venda](https://www.univen.ac.za/).  
+This course will be conducted at [Kruger National Park](https://tropicalstudies.org/portfolio/skukuza-research-station/).  
 
 #### Course Attributes  
 This course satisfies:  
 - Environmental Science field course requirement  
-- Bridges *Experiential Learning Opportunity* requirement  
-- Bridges *Quantitative and Scientific Reasoning* requirement  
-- Bridges *Social and Historical Reasoning* requirement (pending)  
+- Bridges *Social and Historical Reasoning* requirement
+- Bridges *Quantitative and Scientific Reasoning* requirement
+- Bridges *Experiential Learning Opportunity*  
 
 ### Required Textbook and Materials  
 - *Born a Crime* By Trevor Noah  
@@ -37,19 +37,55 @@ This course satisfies:
 
 ### Objectives  
 By the end of the program, students will:
-- be proficient with field techniques  
-- identify the interconnections between hydrology, water quality, and biodiversity  
-- apply water security concepts in local and transboundary watersheds and recognize potential issues that face marginalized populations  
-- Demonstrate an understanding of mathematical concepts through visual representations, the use of formulas and numerical processes (QR2)  
-- Think critically about the use of quantitative data, in authentic contexts and everyday life situations (e.g., the use of statistics in risk assessment; calculating interest rates; polling data; and burden/benefit analysis) (QR3)  
-- apply scientific reasoning to propose and test hypotheses and formulate sound, logical arguments using scientific data taken by the student groups with data from repositories (QSR4)  
-- analyze current scientific topics through literature and in-depth investigation to develop informed positions (QSR5)  
+- be proficient with field techniques (see below)  
+-demonstrate an understanding of mathematical concepts through visual representations, the use of formulas and numerical processes (QSR2)  
+-	think critically about the use of quantitative data, in the connections between hydrology, water quality, and biodiversity (QSR3)  
+-	analyze issues of measurement and modeling for water security and transboundary water management through literature and in-depth investigation to develop informed positions (QSR5)  
+-	apply scientific reasoning to propose and test hypotheses and formulate sound, logical arguments using scientific data taken by the student groups along with data from repositories (QSR4)  
+-	think critically about the development and interaction of individuals, groups, organizations, systems, and communities as it pertains to eco-tourism and environmental conservation (e.g., the southern white rhinoceros horn market) (SHR4)  
+-	develop greater awareness, analytic abilities, and critical capacities concerning contemporary and historical context of apartheid and colonialism as it pertains to environmental health (SHR5)  
 
 ### Field Techniques  
-- GPS use (satellites, importing data)  
+- GPS use (satellites, importing data to GIS)  
 - Record keeping (lab notebooks, chain-of-custody)  
 - Hydrology measurement (river discharge, land cover, evaporation)  
 - Meteorological measurement (sensors, data management)  
 - Water quality measurement (sensors, calibration, operating limitations): pH, conductivity, dissolved oxygen, anion/cation measurement, bacteria)  
 - River health (macroinvertebrate surveys, fish)  
+
+### Evaluation  
+70% Periodic assignments will cover field/lab activities, new skills, and historical context.  This may include quizzes.
+30% Group project, which will allow students to design, collect data, and make conclusions based on their results.
+All policies for the instructor apply to this course: [https://hydro-lab.github.io/class.html](https://hydro-lab.github.io/class.html).  This includes academic integrity and student accomodations.  Any student that requires accomodations must notify the instructor at registration due to the travel involved.  
+
+### Tentaitve Schedule  
+|Day	                  |Activity                                                |Lodging       |Assignment |  
+|-----------------------|--------------------------------------------------------|--------------|-----------|  
+|Thursday, 05 July 2024	|Depart US                                               |Air	          |           |  
+|Friday	                |Arrive Johannesburg, South Africa                       |Johannesburgh |           |  
+|Saturday	              |Apartheid Museum, and lab notebooks and data management |Pretoria      |           |  
+|Sunday                 |Cradle of Humankind UNESCO Site, DWS seminar            |Pretoria      |Reflection on Born a Crime and Apartheid Museum |  
+|Monday (Week 1)        |Travel to Kruger, orientation                           |Skukuza       |                                                |  
+|Tuesday                |GIS and Excel crash course                              |Skukuza       |                                                |  
+|Wednesday              |Conservation and endangered species                     |Skukuza       |History (in preparation for timeline assignment)|  
+|Thursday	Morning: Ecosystem services
+|Afternoon: Wetland delineation	Skukuza	
+|Friday	Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama	Shingwedzi	Kruger GIS project
+|Saturday	Return to Skukuza, Wetland delineation fieldwork	Skukuza	
+|Sunday	Day off	Skukuza	
+|Monday
+|(week 2)	Morning: Water quality and river flow measurement
+|Afternoon: Project work (every afternoon)	Skukuza	South Africa history timeline activity
+|Tuesday	Morning: BOD, chlorophyll measurement	Skukuza	Project proposals
+|Wednesday	Morning: Macroinvertebrate survey
+|Afternoon: measurement weirs and fish ladders; biodiversity	Skukuza	Wetland delineation lab report
+|Thursday	Morning: Electrical resistivity tomography and groundwater supersite	Skukuza	Lab report of water sampling
+|Friday	Morning: Remote sensing	Skukuza	Surface and groundwater lab report
+|Saturday	Morning: Water policy in South Africa	Skukuza	Project report
+|Sunday	Day off	Skukuza	Course reflection
+|Monday
+|(week 3)	Morning: Travel to Pretoria
+|	Air	Depart
+|Tuesday	Arrive in US		
+
 
