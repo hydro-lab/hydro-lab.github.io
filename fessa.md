@@ -63,8 +63,8 @@ All policies for the instructor apply to this course: [https://hydro-lab.github.
 |-----------------------|--------------------------------------------------------|--------------|-----------|  
 |Thursday, 05 July 2024	|Depart US                                               |Air	          |           |  
 |Friday	                |Arrive Johannesburg, South Africa                       |Johannesburgh |           |  
-|Saturday	              |Apartheid Museum, and lab notebooks and data management |Pretoria      |           |  
-|Sunday                 |Cradle of Humankind UNESCO Site, DWS seminar            |Pretoria      |Reflection on Born a Crime and Apartheid Museum |  
+|Saturday	              |[Apartheid Museum](https://www.apartheidmuseum.org/), and lab notebooks and data management                           |Pretoria      |           |  
+|Sunday                 |[Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves), DWS seminar            |Pretoria      |Reflection on Born a Crime and Apartheid Museum |  
 |Monday (Week 1)        |Travel to Kruger, orientation                           |Skukuza       |                                                |  
 |Tuesday                |GIS and Excel crash course                              |Skukuza       |                                                |  
 |Wednesday              |Conservation and endangered species                     |Skukuza       |History (in preparation for timeline assignment)|  
