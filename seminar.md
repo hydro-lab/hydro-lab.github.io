@@ -18,7 +18,7 @@ title: Seminar
 |22 September |RCR forum |[What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
 |29 September |John Stolz, Duquesne University |[The Amazon, Wallace, and Me](https://duq.box.com/s/2jrg7iwuj5zpx4q2kw1xsj26hoa3a5n9), **SPECIAL TIME AND LOCATION:** 2pm, Maurice Falk Lecture Hall, Mellon Hall |  
 |06 October | | |  
-|13 October |GSA Presenters |Preview of GSA presentations |  
+|13 October |GSA Presenters |[GSA presentations](https://duq.box.com/shared/static/5h6glmlov3p5f4wlav41lhtcogtxcpag.pdf) |  
 |20 October | | |  
 |27 October | | |  
 |03 November | |*no seminar* |  
