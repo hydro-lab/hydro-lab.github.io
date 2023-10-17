@@ -59,6 +59,7 @@ By the end of the program, students will:
 All policies for the instructor apply to this course: [https://hydro-lab.github.io/class.html](https://hydro-lab.github.io/class.html).  This includes academic integrity and student accomodations.  Any student that requires accomodations must notify the instructor at registration due to the travel involved.  
 
 ### Tentaitve Schedule  
+
 |Day	                  |Activity                                                |Lodging       |Assignment |  
 |-----------------------|--------------------------------------------------------|--------------|-----------|  
 |Thursday, 05 July 2024	|Depart US                                               |Air	          |           |  
