@@ -64,24 +64,21 @@ All policies for the instructor apply to this course: [https://hydro-lab.github.
 |------------------------|-------------------------------------------------------------------------|--------------|-----------|  
 |Wednesday, 17 July 2024 |Depart US                                                                |Air	          |           |  
 |Thursday                |Arrive Johannesburg, South Africa                                        |Johannesburgh |           |  
-|Friday	                 |Travel to Kruger, orientation                                            |Skukuza       |Reflection on Born a Crime |  
-|Saturday	               |[Apartheid Museum](https://www.apartheidmuseum.org/), and lab notebooks and data management                |Pretoria |           |  
-|Sunday                  |[Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves), DWS seminar |Pretoria | and Apartheid Museum |  
-|Monday                  |
-|Tuesday                 |GIS and Excel crash course, Ecosystem services                           |Skukuza       |                                                |  
-|Wednesday, 24 July 2024 |Conservation and endangered species                                      |Skukuza       |History (in preparation for timeline assignment)|  
-|Thursday                |Wetland delineation	                                                    |Skukuza	     |                                                |  
-|Friday                  |Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama |Shingwedzi    |                                                |  
-|Saturday                |Water quality and river flow measurement, Return to Skukuza              |Skukuza       |Project proposals                               |  
-|Sunday                  |Day off                                                                  |Skukuza	     |                                                |  
+|Friday	                 |Travel to Kruger, orientation, and lab notebooks and data management     |Skukuza       |Reflection on Born a Crime |  
+|Saturday	               |GIS and Excel crash course, Ecosystem services                           |Skukuza       |                           |  
+|Sunday                  |Conservation and endangered species                                      |Skukuza       |History (in preparation for timeline assignment)|  
+|Monday                  |Wetland delineation	                                                     |Skukuza	      |                                                |  
+|Tuesday                 |Water policy in South Africa	                                           |Skukuza       |Summary of South African water resources law    |  
+|Wednesday, 24 July 2024 |Visit supersite                                                          |Skukuza       |                                                |  
+|Thursday                |Water quality and river flow measurement, Return to Skukuza              |Skukuza       |Project proposals                               |  
+|Friday                  |Kruger project work                                                      |Skukuza       |                                                |  
+|Saturday                |Macroinvertebrate survey, Kruger project work                            |Skukuza       |Wetland delineation lab report                  |  
+|Sunday                  |Kruger project work                                                      |Skukuza       |                                                |  
 |Monday                  |Kruger project work                                                      |Skukuza       |South Africa history timeline activity          |  
 |Tuesday                 |Kruger project work                                                      |Skukuza       |                                                |  
-|Wednesday               |Macroinvertebrate survey, Kruger project work                            |Skukuza       |Wetland delineation lab report                  |  
-|Thursday	               |Kruger project work                                                      |Skukuza       |                                                |  
-|Friday                  |Water policy in South Africa	                                            |Skukuza       |                                                |  
-|Saturday	               |Visit supersite                                                          |Skukuza       |Project report                                  |  
-|Sunday	                 |Day off                                                                  |Skukuza       |Course reflection                               |  
-|Monday                  |Travel to Pretoria                                                       |Air           |Departure                                       |  
-|Tuesday                 |Arrive in US		                                                          |              |                                                |  
-
+|Wednesday, 31 July 2024 |Kruger project work                                                      |Skukuza       |Project report                                  |  
+|Thursday	               |Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama |Shingwedzi    |                                                |  
+|Friday                  |Venda region                                                             |Shingwedzi    |                                                |  
+|Saturday	               |[Apartheid Museum](https://www.apartheidmuseum.org/), [Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves) |Pretoria |           |  
+|Sunday	                 |Departure                                                                |Air           |Course reflection                               |  
 
