@@ -6,7 +6,7 @@ title: Field Environmental Science in South Africa
 ## Short-Term Study Abroad  
 This is a three-week intensive science course in South Africa.  The course is open to undergraduates and graduate students, and available to any Duquesne University student with adequate math preparation to at least college algebra (see instructor if you are unsure).  For more program information:  
 - See the tentative syllabus below  
-- View the brief [promotional video](https://youtu.be/NRmEIAZAKEw)  
+- View the [information sheet](https://duq.box.com/s/7msosgk2z8nu759wyb06w5kpf8iip3jw)  
 - Fill out the [online interest form](https://forms.gle/rgA7QWKETBzRxavy6)  
 - The *Center for Global Engagement* oversees the [application and enrollment](https://www.duq.edu/academics/study-abroad)  
 
@@ -60,27 +60,28 @@ All policies for the instructor apply to this course: [https://hydro-lab.github.
 
 ### Tentaitve Schedule  
 
-|Day	                  |Activity                                                |Lodging       |Assignment |  
-|-----------------------|--------------------------------------------------------|--------------|-----------|  
-|Thursday, 05 July 2024	|Depart US                                               |Air	          |           |  
-|Friday	                |Arrive Johannesburg, South Africa                       |Johannesburgh |           |  
-|Saturday	              |[Apartheid Museum](https://www.apartheidmuseum.org/), and lab notebooks and data management                |Pretoria |           |  
-|Sunday                 |[Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves), DWS seminar |Pretoria |Reflection on Born a Crime and Apartheid Museum |  
-|Monday (Week 1)        |Travel to Kruger, orientation                                            |Skukuza       |                                                |  
-|Tuesday                |GIS and Excel crash course, Ecosystem services                           |Skukuza       |                                                |  
-|Wednesday              |Conservation and endangered species                                      |Skukuza       |History (in preparation for timeline assignment)|  
-|Thursday               |Wetland delineation	                                                    |Skukuza	     |                                                |  
-|Friday                 |Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama |Shingwedzi    |                                                |  
-|Saturday               |Water quality and river flow measurement, Return to Skukuza              |Skukuza       |Project proposals                               |  
-|Sunday                 |Day off                                                                  |Skukuza	     |                                                |  
-|Monday (week 2)        |Kruger project work                                                      |Skukuza       |South Africa history timeline activity          |  
-|Tuesday                |Kruger project work                                                      |Skukuza       |                                                |  
-|Wednesday              |Macroinvertebrate survey, Kruger project work                            |Skukuza       |Wetland delineation lab report                  |  
-|Thursday	              |Kruger project work                                                      |Skukuza       |                                                |  
-|Friday                 |Water policy in South Africa	                                            |Skukuza       |                                                |  
-|Saturday	              |Visit supersite                                                          |Skukuza       |Project report                                  |  
-|Sunday	                |Day off                                                                  |Skukuza       |Course reflection                               |  
-|Monday                 |Travel to Pretoria                                                       |Air           |Departure                                       |  
-|Tuesday                |Arrive in US		                                                          |              |                                                |  
+|Day	                   |Activity                                                                 |Lodging       |Assignment |  
+|------------------------|-------------------------------------------------------------------------|--------------|-----------|  
+|Wednesday, 17 July 2024 |Depart US                                                                |Air	          |           |  
+|Thursday                |Arrive Johannesburg, South Africa                                        |Johannesburgh |           |  
+|Friday	                 |Travel to Kruger, orientation                                            |Skukuza       |Reflection on Born a Crime |  
+|Saturday	               |[Apartheid Museum](https://www.apartheidmuseum.org/), and lab notebooks and data management                |Pretoria |           |  
+|Sunday                  |[Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves), DWS seminar |Pretoria | and Apartheid Museum |  
+|Monday                  |
+|Tuesday                 |GIS and Excel crash course, Ecosystem services                           |Skukuza       |                                                |  
+|Wednesday, 24 July 2024 |Conservation and endangered species                                      |Skukuza       |History (in preparation for timeline assignment)|  
+|Thursday                |Wetland delineation	                                                    |Skukuza	     |                                                |  
+|Friday                  |Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama |Shingwedzi    |                                                |  
+|Saturday                |Water quality and river flow measurement, Return to Skukuza              |Skukuza       |Project proposals                               |  
+|Sunday                  |Day off                                                                  |Skukuza	     |                                                |  
+|Monday                  |Kruger project work                                                      |Skukuza       |South Africa history timeline activity          |  
+|Tuesday                 |Kruger project work                                                      |Skukuza       |                                                |  
+|Wednesday               |Macroinvertebrate survey, Kruger project work                            |Skukuza       |Wetland delineation lab report                  |  
+|Thursday	               |Kruger project work                                                      |Skukuza       |                                                |  
+|Friday                  |Water policy in South Africa	                                            |Skukuza       |                                                |  
+|Saturday	               |Visit supersite                                                          |Skukuza       |Project report                                  |  
+|Sunday	                 |Day off                                                                  |Skukuza       |Course reflection                               |  
+|Monday                  |Travel to Pretoria                                                       |Air           |Departure                                       |  
+|Tuesday                 |Arrive in US		                                                          |              |                                                |  
 
 
