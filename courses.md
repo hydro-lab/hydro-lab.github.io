@@ -5,12 +5,13 @@ title: Courses
 # Courses  
 - ENVI 251: Principles of Environmental Science  
 - ENVI 404: Computer Tools for Scientists
+- ENVI 405: [Field Environmental Science in South Africa](fessa.html)  
 - ENVI 414H/415H: Environmental Science Honors Program [Syllabus](ughonors.html)  
 - ENVI 456: Water, Environment, and Development  
-- ENVI 549: Fate and Transport [Notes](https://docs.google.com/document/d/1Glu4YVzrBd1Vb8NBpd6cjkDLx4QI3rKECcA3CqS-B50/edit?usp=sharing)  
+- ENVI 549: Fate and Transport  
 - ENVI 580: Fluid Mechanics
 - ENVI 591: Hydrogeology  
-- ENVI 699: Graduate Seminar  [Seminar schedule](seminar.html)  
+- ENVI 699: Graduate Seminar [Seminar schedule](seminar.html)  
 - GLBH 185: Introduction to Global Health [Water, Sanitation, and Hygiene module](https://sites.google.com/view/duq-hydro-wash-unit/home)  
 
 ## Links  
