@@ -7,7 +7,6 @@ title: Field Environmental Science in South Africa
 This is a three-week intensive science course in South Africa.  The course is open to undergraduates and graduate students, and available to any Duquesne University student with adequate math preparation to at least college algebra (see instructor if you are unsure).  For more program information:  
 - See the tentative syllabus below  
 - View the [information sheet](https://duq.box.com/s/7msosgk2z8nu759wyb06w5kpf8iip3jw)  
-- Fill out the [online interest form](https://forms.gle/rgA7QWKETBzRxavy6)  
 - The *Center for Global Engagement* oversees the [application and enrollment](https://www.duq.edu/academics/study-abroad)  
 
 ## ENVI 405 Syllabus  
