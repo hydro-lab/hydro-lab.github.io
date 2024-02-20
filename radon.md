@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Radon Information
 ---
 
 # Radon Information
@@ -17,6 +17,7 @@ title: Publications
 - USEPA. (2012). A Citizen’s Guide to Radon (No. EPA 402/K-12/002) (p. 16). Washington, DC: Environmental Protection Agency. Retrieved from [https://www.epa.gov/sites/default/files/2016-12/documents/2016_a_citizens_guide_to_radon.pdf](https://www.epa.gov/sites/default/files/2016-12/documents/2016_a_citizens_guide_to_radon.pdf)  
 
 ## Summary of Reference Values  
+
 |Source |Activity (pCi/L) |Activity (Bq/m^3) |  
 |---|---|---|  
 |U.S. Environmental Protection Agency |**4** |148 |  
