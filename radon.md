@@ -23,9 +23,11 @@ title: Radon Information
 
 |Source |Activity (pCi/L) |Activity (Bq/m<sup>3</sup>) |  
 |---|---|---|  
-|U.S. Environmental Protection Agency |**4** |148 |  
-|World Health Organization |2.7 |**100** |  
+|U.S. Environmental Protection Agency<sup>1</sup> |**4** |148 |  
+|World Health Organization<sup>2</sup> |2.7 |**100** |  
 
+1 The [USEPA](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean) also recommends mitigation over 2 pCi/L.  
+2 The [WHO](https://www.who.int/news-room/fact-sheets/detail/radon-and-health) recommends that countries set a reference level of 100 Bq/m<sup>3</sup>; however, if that is not possible, that it not exceed 300 Bq/m<sup>3</sup>.
 **Bold** values are the reference values, other values are provided for alternate units.  
 
 ## Selected Radon Research Papers  
