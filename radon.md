@@ -5,7 +5,7 @@ title: Radon Information
 
 # Radon Information
 
-![Radon icon](radon.png | width=200)  
+<img src="radon.png" alt="Radon icon" width="200" height="199">  
 
 ## Websites  
 - [Pennsylvania Department of Environmental Protection, Radon Division](https://www.dep.pa.gov/Business/RadiationProtection/RadonDivision/pages/default.aspx)  
