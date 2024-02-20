@@ -21,7 +21,7 @@ title: Radon Information
 
 ## Summary of Reference Values  
 
-|Source |Activity (pCi/L) |Activity (Bq/m^3) |  
+|Source |Activity (pCi/L) |Activity (Bq/m<sup>3</sup>) |  
 |---|---|---|  
 |U.S. Environmental Protection Agency |**4** |148 |  
 |World Health Organization |2.7 |**100** |  
