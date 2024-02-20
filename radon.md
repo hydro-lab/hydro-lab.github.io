@@ -23,12 +23,12 @@ title: Radon Information
 
 |Source |Activity (pCi/L) |Activity (Bq/m<sup>3</sup>) |  
 |---|---|---|  
-|U.S. Environmental Protection Agency<sup>1</sup> |**4** |148 |  
-|World Health Organization<sup>2</sup> |2.7 |**100** |  
+|U.S. Environmental Protection Agency<sup>1</sup> |**4** |148 <sup>3</sup> |  
+|World Health Organization<sup>2</sup> |2.7 <sup>3</sup> |**100** |  
 
 1. The [USEPA](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean) also recommends mitigation over 2 pCi/L.  
 2. The [WHO](https://www.who.int/news-room/fact-sheets/detail/radon-and-health) recommends that countries set a reference level of 100 Bq/m<sup>3</sup>; however, if that is not possible, that it not exceed 300 Bq/m<sup>3</sup>.  
-- **Bold** values are the reference values, other values are provided for alternate units.  
+3. **Bold** values are the reference values, other values are provided for alternate units.  
 
 ## Selected Radon Research Papers  
 - Brobbey, A., Rydz, E., Fenton, S., Demers, P. A., Ge, C. B., & Peters, C. E. (2022). Characterizing occupational radon exposure greater than 100 Bq/m3 in a highly exposed country. Scientific Reports, 12(1), 21323. [https://doi.org/10.1038/s41598-022-25547-x](https://doi.org/10.1038/s41598-022-25547-x)  
