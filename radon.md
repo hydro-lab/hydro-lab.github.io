@@ -4,6 +4,9 @@ title: Radon Information
 ---
 
 # Radon Information
+
+![Radon icon](radon.png)  
+
 ## Websites  
 - [Pennsylvania Department of Environmental Protection, Radon Division](https://www.dep.pa.gov/Business/RadiationProtection/RadonDivision/pages/default.aspx)  
 - [Pennsylvania Radon Risk Map](https://Fwww.epa.gov/sites/default/files/2014-08/documents/pennsylvania.pdf) (downloads pdf file)  
@@ -12,7 +15,7 @@ title: Radon Information
 
 ## Guidebooks  
 - Otton, J. K. (1992). The Geology of Radon. Denver, CO, USA: U.S. Geological Survey. Retrieved from [https://www.usgs.gov/faqs/what-radon](https://www.usgs.gov/faqs/what-radon)  
-- Pennsylvania Radon Information Center. (2023). [Pennsylvania Resident’s Guide to Radon](https://www.dep.pa.gov/Business/RadiationProtection/RadonDivision/Monitoring/Pages/Publications.aspx) (p. 24). Harrisburg, PA, USA: Department of Environmental Protection.  
+- Pennsylvania Radon Information Center. (2023). Pennsylvania Resident’s Guide to Radon (p. 24). Harrisburg, PA, USA: Department of Environmental Protection. Retrieved from [https://www.dep.pa.gov/Business/RadiationProtection/RadonDivision/pages/default.aspx](https://www.dep.pa.gov/Business/RadiationProtection/RadonDivision/pages/default.aspx)  
 - USEPA. (2018). Home Buyer’s and Seller’s Guide to Radon (No. EPA 402/K-13/002) (p. 39). Washington, DC: Environmental Protection Agency. Retrieved from [https://www.epa.gov/sites/default/files/2015-05/documents/hmbuygud.pdf](https://www.epa.gov/sites/default/files/2015-05/documents/hmbuygud.pdf)  
 - USEPA. (2012). A Citizen’s Guide to Radon (No. EPA 402/K-12/002) (p. 16). Washington, DC: Environmental Protection Agency. Retrieved from [https://www.epa.gov/sites/default/files/2016-12/documents/2016_a_citizens_guide_to_radon.pdf](https://www.epa.gov/sites/default/files/2016-12/documents/2016_a_citizens_guide_to_radon.pdf)  
 
