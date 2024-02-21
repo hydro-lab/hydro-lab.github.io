@@ -3,7 +3,10 @@ layout: default
 title: Publications
 ---
 ## Publications  
-- Bakar, S. A., Okular, K., Whitewood, A., Glancey, K. M., & Kahler, D. M., Fluoride in Drinking Water and Tea in the Arusha Region of Tanzania.  Under review.  
+- Bakar, S. A., Lakshmi, V., & Kahler, D. M. (2023) Assessment of Groundwater Resources in the Sand River Catchment, South Africa using Hydrologic Modeling and Catchment Water Balance Approaches.  *Under review*  
+- Zuccolotto, G. & Kahler, D. M. (2023) Assessment of Relative Risk of Seawater Intrusion Mechanisms in the Coastal Plains of the Limpopo River Basin, Mozambique. *Under Review*  
+- Bakar, S. A., Okular, K., Whitewood, A., Glancey, K. M., & Kahler, D. M., Fluoride in Drinking Water and Tea in the Arusha Region of Tanzania.  *Under review*  
+- Gardner, J. R., Doyle, M. W., Ensign, S. H., & Kahler, D. M. (2023). A new metric for sunlight exposure in rivers, lakes, and oceans. Limnology and Oceanography Letters, lol2.10365. [https://doi.org/10.1002/lol2.10365](https://doi.org/10.1002/lol2.10365)  
 - Mukhawana, M. B., Kanyerere, T., Kahler, D., & Masilela, N. S. (2023). Application of the Standardised Streamflow Index for Hydrological Drought Monitoring in the Western Cape Province, South Africa: A Case Study in the Berg River Catchment. Water, 15(14), 2530. [https://doi.org/10.3390/w15142530](https://doi.org/10.3390/w15142530)  
 - Mukhawana, M. B., Kanyerere, T., & Kahler, D. M. (2023). Review of In-Situ and Remote Sensing-Based Indices and Their Applicability for Integrated Drought Monitoring in South Africa. Water, 15(2). [https://doi.org/10.3390/w15020240](https://doi.org/10.3390/w15020240)  
 - Lange, C. L., Smith, V. A., & Kahler, D. M. (2022). Pittsburgh Air Pollution Changes During the COVID-19 Lockdown. Environmental Advances, 7, 100149. [https://doi.org/10.1016/j.envadv.2021.100149](https://doi.org/10.1016/j.envadv.2021.100149)  
@@ -17,11 +20,12 @@ title: Publications
 - Kahler, D. M., & Brutsaert, W. (2006). Complementary relationship between daily evaporation in the environment and pan evaporation. Water Resources Research, 42(5). [https://doi.org/10.1029/2005WR004541](https://doi.org/10.1029/2005WR004541)  
 
 ## Presentations  
-- Bakar, S.A., Kahler, D.M., & Lakshmi, V.  (2022). Modeling Groundwater Resources for Improved Management within the Sand River Catchment at the Soutpansberg Mountains: A Case Study in South Africa. American Geophysical Union 2022 Fall Meeting (H25I-1222). Chicago, IL.  
+- Mlinarcik, M. and Kahler, D. M. (2024). Evaluation of Changes in Evaporative Losses from Lake Powell Reservoir Contributions in the Colorado River Basin.  American Geophysical Union 2024 Chapman Conference on Remote Sensing of the Water Cycle (Poster 66).  Honolulu, HI.  
+- Bakar, S. A., Kahler, D. M., & Lakshmi, V.  (2022). Modeling Groundwater Resources for Improved Management within the Sand River Catchment at the Soutpansberg Mountains: A Case Study in South Africa. American Geophysical Union 2022 Fall Meeting (H25I-1222). Chicago, IL.  
 - Zuccolotto, G., and Kahler, D. M., (2022). Assessing the Contribution of Relative Sea Level Rise to Salinization of the Lower Limpopo River in Mozambique. American Geophysical Union 2022 Fall Meeting (H32C-08). Chicago, IL.  
-- Bakar, S.A. and Kahler, D.M., (2021). Hydrologic Modeling with Remote Sensing for Groundwater Resources Management within the Sand River Catchment, South Africa. American Geophysical Union 2021 Fall Meeting (H23H-05). New Orleans, LA.  
+- Bakar, S. A. and Kahler, D. M., (2021). Hydrologic Modeling with Remote Sensing for Groundwater Resources Management within the Sand River Catchment, South Africa. American Geophysical Union 2021 Fall Meeting (H23H-05). New Orleans, LA.  
 - Zuccolotto, G., and Kahler, D. M., (2021). Monitoring Groundwater Withdrawal and Potential Land Subsidence in The Limpopo River Basin, Mozambique with Remote Sensing. American Geophysical Union 2021 Fall Meeting (H31F-07). New Orleans, LA.  
-- Bakar, S.A. and Kahler, D. M., (2021). Novel Application of Remote Sensing, Geotechnical Measurements, and Groundwater Models for Improved Water Resources Management within the Limpopo River Basin. International Shared Aquifer Resources Management 2021 Conference. December 6th -9th, 2021, Paris, France.  
+- Bakar, S. A. and Kahler, D. M., (2021). Novel Application of Remote Sensing, Geotechnical Measurements, and Groundwater Models for Improved Water Resources Management within the Limpopo River Basin. International Shared Aquifer Resources Management 2021 Conference. December 6th -9th, 2021, Paris, France.  
 - Edokpayi, J. N., Sharp, G., Rose, K. C., Kahler, D. M. (2020). A SWOT analysis of Water Resource Management of the Limpopo River Basin. In Water Institute of Southern Africa 2020 Virtual Biennial Conference and Exhibition.  Johannesburg, South Africa.
 - Okular, K., Bakar, S., Glancey, K., Whitewood, A., Goldschmidt, B., & Kahler, D. M. (2019). Fluoride removal in drinking water with augmented bentonite and community perceptions in Arusha, Tanzania. In UNC Water and Health Conference. Chapel Hill, NC, USA.
 - Martin, M. L., Glancey, K. M., & Kahler, D. M. (2018). Method Development for Remote Sensing of River Flow with Limited Ground-Based Measurements. In AGU Fall Meeting (pp. H43G-2504). Washington, DC.
