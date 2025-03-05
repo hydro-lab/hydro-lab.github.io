@@ -2,9 +2,11 @@
 layout: default
 title: Resources
 ---
-# SDS Access:  
+# Lab Safety:  
+- [CAMEO Chemicals](https://cameochemicals.noaa.gov/)  
 - [Fisher Database](https://www.fishersci.com/us/en/catalog/search/sdshome.html)  
-- [Lab inventory SDSs](https://duq.box.com/s/cxajdf6jszn1sn0frjt6sbnj3bfrxtu1)  
+- [Lab inventory SDSs](https://duq.box.com/s/cxajdf6jszn1sn0frjt6sbnj3bfrxtu1)
+- [Chemical Reactivity Worksheet](https://www.aiche.org/ccps/resources/chemical-reactivity-worksheet)  
 
 # Research Resources  
 
