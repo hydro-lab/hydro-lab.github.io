@@ -2,30 +2,28 @@
 layout: default
 title: Seminar
 ---
-# Environmental Science Seminar  
+# Civil and Environmental Engineering and Science Seminar  
 
-## Fall 2023 Schedule  
-- Seminars are held on Fridays at 12:00pm  
-- Fisher 214  
-- [RSVP](https://bit.ly/ESsemRSVP) is requested, but not required
+## Spring 2025 Schedule  
+Unless otherwise noted, seminar will be:
+- Fridays at 12:00pm  
+- Fisher 328  
+- [RSVP](https://forms.gle/Q3kSHPAgARCrv1yi6) is requested, but not required
 
-|Date|Speaker|Title|  
+|Date |Speaker |Title |  
 |---|---|---|  
-|25 August | |*no seminar* |  
-|01 September |Journal article discussion |[West et al., 2023](https://www.science.org/doi/10.1126/science.ade3535) |  
-|08 September | |*no seminar* |  
-|15 September |Research | |  
-|22 September |RCR forum |[What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
-|29 September |John Stolz, Duquesne University |[The Amazon, Wallace, and Me](https://duq.box.com/s/2jrg7iwuj5zpx4q2kw1xsj26hoa3a5n9), **SPECIAL TIME AND LOCATION:** 2pm, Maurice Falk Lecture Hall, Mellon Hall |  
-|06 October | | |  
-|13 October |GSA Presenters |[GSA presentations](https://duq.box.com/shared/static/5h6glmlov3p5f4wlav41lhtcogtxcpag.pdf) |  
-|20 October | | |  
-|27 October | | |  
-|03 November | |*no seminar* |  
-|10 November |Sarah Haig, University of Pittsburgh |*Beyond Lead Reduction: Unraveling the Unexpected Responses of Nontuberculous Mycobacteria to Orthophosphate Lead Corrosion Control in a Full-scale Drinking Water Distribution System* |  
-|17 November | | |  
-|24 November |Thanksgiving break |*no seminar* |  
-|01 December | | |  
+|17-18 January |Charting pathways to planetary health: ecology, education, and economics |Special Conference: [register](https://uni-koeln.zoom.us/meeting/register/tJAqdeiprjktE9y7fg7xNx3ibMvoj-2WP0DS) |  
+|31 January |RCR forum  |Duke/Harvard research misconduct case: Listen to the [updated Freakonomics Podcast](https://freakonomics.com/podcast/can-academic-fraud-be-stopped-update/), as background: the [Datacolada page](https://datacolada.org/118), and initial [Freakonomics Podcast](https://freakonomics.com/podcast/why-is-there-so-much-fraud-in-academia-update/) |  
+|07 February | |*no seminar* |  
+|14 February | |*no seminar* |  
+|21 February | |*no seminar* |  
+|27 February (Thursday) |[Shale Gas Conference](www.shalepalwv.org) 9am-5pm |In-person: Power Center and online, [register](www.shalepalwv.org) |  
+|07 March | |*no seminar* |  
+|14 March | |*no seminar* |  
+|21 March | |*no seminar* |  
+|25 March (Tuesday) |Talal Salem, United States Military Academy |[Green Multi-functional Signal Filtering Cementitious Material Towards Smart Infrastructure](https://duq.box.com/s/h5b6jrwhgo4kvt4qb0o9qh7rn6mnkj62), 9:30am, Fisher 711 |  
+|28 March |Adrijana Savić,  |Proposed Qualification Test Procedure to Identify Prestressed Concrete Ties that may be Susceptible to End-splitting Cracks |  
+|01 April
 
 To be rescheduled:  
  - Adam Ward, Oregon State University  
@@ -38,6 +36,7 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 
 |Year      |Case          |  
 |----------|--------------|  
+|Spring 2024 | 
 |Fall 2023 |Stanford President's alleged data manipulation: [What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
 |Fall 2022 |[Data management case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2019%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf), [COI case study](https://researchservices.cornell.edu/sites/default/files/2022-07/2021%20RCR%20Symposium%20Case%20Studies%20%5Bfinal%5D.pdf) |
 |Fall 2021 |[Ariely Case](https://duq.box.com/s/zhavrk0sh429fus71axbzjktrqecf1tt) |  
@@ -46,7 +45,18 @@ Responsible Conduct of Research (RCR) is a legal requirement of federally funded
 [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)  
 
 ## Previous Semester Schedules  
-### Sprint 2023  
+## Fall 2023 Schedule  
+
+|Date|Speaker|Title|  
+|---|---|---|  
+|01 September |Journal article discussion |[West et al., 2023](https://www.science.org/doi/10.1126/science.ade3535) |  
+|15 September |Research | |  
+|22 September |RCR forum |[What to Know About the Stanford President's Resignation](https://duq.box.com/s/kz0kicbr8wa7v5dctre89zu5yxb9sned), [The Research Scandal at Stanford is More Common Than  You Think](https://duq.box.com/s/69dg5mroz6288ft44onaekhq2y9us2vq) |  
+|29 September |John Stolz, Duquesne University |[The Amazon, Wallace, and Me](https://duq.box.com/s/2jrg7iwuj5zpx4q2kw1xsj26hoa3a5n9), **SPECIAL TIME AND LOCATION:** 2pm, Maurice Falk Lecture Hall, Mellon Hall |  
+|13 October |GSA Presenters |[GSA presentations](https://duq.box.com/shared/static/5h6glmlov3p5f4wlav41lhtcogtxcpag.pdf) |  
+|10 November |Sarah Haig, University of Pittsburgh |*Beyond Lead Reduction: Unraveling the Unexpected Responses of Nontuberculous Mycobacteria to Orthophosphate Lead Corrosion Control in a Full-scale Drinking Water Distribution System* |  
+
+### Spring 2023  
 
 |Date|Speaker|Title|  
 |---|---|---|  
