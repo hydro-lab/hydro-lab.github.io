@@ -12,7 +12,7 @@ Unless otherwise noted, seminar will be:
 
 |Date |Speaker |Title |  
 |---|---|---|  
-|17-18 January |Charting pathways to planetary health: ecology, education, and economics |Special Conference: [register](https://uni-koeln.zoom.us/meeting/register/tJAqdeiprjktE9y7fg7xNx3ibMvoj-2WP0DS) |  
+|17-18 January |[Charting pathways to planetary health: ecology, education, and economics](https://duq.box.com/s/3vu61ii2rdft1bux3lve9wcgxbtaftoi) |Special Conference: [register](https://uni-koeln.zoom.us/meeting/register/tJAqdeiprjktE9y7fg7xNx3ibMvoj-2WP0DS) |  
 |31 January |RCR forum  |Duke/Harvard research misconduct case: Listen to the [updated Freakonomics Podcast](https://freakonomics.com/podcast/can-academic-fraud-be-stopped-update/), as background: the [Datacolada page](https://datacolada.org/118), and initial [Freakonomics Podcast](https://freakonomics.com/podcast/why-is-there-so-much-fraud-in-academia-update/) |  
 |07 February | |*no seminar* |  
 |14 February | |*no seminar* |  
@@ -22,8 +22,11 @@ Unless otherwise noted, seminar will be:
 |14 March | |*no seminar* |  
 |21 March | |*no seminar* |  
 |25 March (Tuesday) |Talal Salem, United States Military Academy |[Green Multi-functional Signal Filtering Cementitious Material Towards Smart Infrastructure](https://duq.box.com/s/h5b6jrwhgo4kvt4qb0o9qh7rn6mnkj62), 9:30am, Fisher 711 |  
-|28 March |Adrijana Savić,  |Proposed Qualification Test Procedure to Identify Prestressed Concrete Ties that may be Susceptible to End-splitting Cracks |  
-|01 April
+|28 March |Adrijana Savić,  |[Proposed Qualification Test Procedure to Identify Prestressed Concrete Ties that may be Susceptible to End-splitting Cracks](https://duq.box.com/s/8lu0vzx6hc5lxspapx66dkwo0ox3hiuc), 1:00pm, Fisher 711 |  
+|04 April | |*no seminar* |  
+|11 April |Mxolisi Mukhawana, University of the Western Cape, South Africa |Introducing a Multi-Index Approach for Integrated Drought Monitoring in South Africa, A Case Study in the Berg River Catchment, Western Cape Province, South Africa |  
+|18 April | | |  
+|25 April |David Wagner, University of Utah | |  
 
 To be rescheduled:  
  - Adam Ward, Oregon State University  
