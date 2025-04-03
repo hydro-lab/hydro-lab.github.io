@@ -23,7 +23,8 @@ Unless otherwise noted, seminar will be:
 |21 March | |*no seminar* |  
 |25 March (Tuesday) |Talal Salem, United States Military Academy |[Green Multi-functional Signal Filtering Cementitious Material Towards Smart Infrastructure](https://duq.box.com/s/h5b6jrwhgo4kvt4qb0o9qh7rn6mnkj62), 9:30am, Fisher 711 |  
 |28 March |Adrijana Savić,  |[Proposed Qualification Test Procedure to Identify Prestressed Concrete Ties that may be Susceptible to End-splitting Cracks](https://duq.box.com/s/8lu0vzx6hc5lxspapx66dkwo0ox3hiuc), 1:00pm, Fisher 711 |  
-|04 April | | |  
+|04 April | |*no seminar* |  
+|07 April (Monday) |Christos Varsamis, Rensselaer Polytechnical Institute |[Optimization-Based Structural Design for Sustainable Infrastructure Development](https://duq.box.com/s/f59kticgw9h80rlvai96j0w28cgee1be), 1:00pm, Fisher 711 |  
 |11 April |Mxolisi Mukhawana, University of the Western Cape, South Africa |Introducing a Multi-Index Approach for Integrated Drought Monitoring in South Africa, A Case Study in the Berg River Catchment, Western Cape Province, South Africa |  
 |18 April |Easter Break |*no seminar* |  
 |25 April |David Wagner, University of Utah | |  
