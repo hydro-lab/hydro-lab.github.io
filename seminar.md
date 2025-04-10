@@ -25,7 +25,7 @@ Unless otherwise noted, seminar will be:
 |28 March |Adrijana Savić,  |[Proposed Qualification Test Procedure to Identify Prestressed Concrete Ties that may be Susceptible to End-splitting Cracks](https://duq.box.com/s/8lu0vzx6hc5lxspapx66dkwo0ox3hiuc), 1:00pm, Fisher 711 |  
 |04 April | |*no seminar* |  
 |07 April (Monday) |Christos Varsamis, Rensselaer Polytechnical Institute |[Optimization-Based Structural Design for Sustainable Infrastructure Development](https://duq.box.com/s/f59kticgw9h80rlvai96j0w28cgee1be), 1:00pm, Fisher 711 |  
-|11 April |Mxolisi Mukhawana, University of the Western Cape, South Africa |Introducing a Multi-Index Approach for Integrated Drought Monitoring in South Africa, A Case Study in the Berg River Catchment, Western Cape Province, South Africa |  
+|11 April |Mxolisi Mukhawana, University of the Western Cape, South Africa |[Introducing a Multi-Index Approach for Integrated Drought Monitoring in South Africa, A Case Study in the Berg River Catchment, Western Cape Province, South Africa](https://duq.box.com/s/n41fnci7dgnid1t835p4pabt9v9u0vop) |  
 |18 April |Easter Break |*no seminar* |  
 |25 April |David Wagner, University of Utah | |  
 
