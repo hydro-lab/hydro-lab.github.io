@@ -19,19 +19,19 @@ Instruments:
 - Campbell Scienfitic [CS320](https://www.campbellsci.com/cs320) Pyranometer: shortwave downward radiation  
 
 ### Air temperature  
-![plot of air temperature](https://raw.githubusercontent.com/hydro-lab/wind-power/main/airtemp.jpg)  
+![plot of air temperature](https://raw.githubusercontent.com/hydro-lab/Lab-Data-Collection/main/FISHERtemp.jpg)  
 
 ### Relative humidity  
-![plot of relative humidity](https://raw.githubusercontent.com/hydro-lab/wind-power/main/airtemp.jpg)  
+![plot of relative humidity](https://raw.githubusercontent.com/hydro-lab/Lab-Data-Collection/main/FISHERrh.jpg)  
 
 ### Barometric pressure  
-![plot of barometric pressure](https://raw.githubusercontent.com/hydro-lab/wind-power/main/airtemp.jpg)  
+![plot of barometric pressure](https://raw.githubusercontent.com/hydro-lab/Lab-Data-Collection/main/FISHERpres.jpg)  
 
 ### Precipitation  
-![plot of precipitation](https://github.com/hydro-lab/Lab-Data-Collection/blob/main/FISHERprecip.jpg)  
+![plot of precipitation](https://raw.githubusercontent.com/hydro-lab/Lab-Data-Collection/main/FISHERprecip.jpg)  
 
 ### Solar radiation  
-![plot of solar radiation](https://raw.githubusercontent.com/hydro-lab/wind-power/main/airtemp.jpg)  
+![plot of solar radiation](https://raw.githubusercontent.com/hydro-lab/Lab-Data-Collection/main/FISHERrad.jpg)  
 
 ## Mellon Hall  
 Instruments:  
