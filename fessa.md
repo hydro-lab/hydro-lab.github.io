@@ -13,7 +13,7 @@ This is a three-week intensive science course in South Africa.  The course is op
 *4 credits*  
 ### Instructor  
 David Kahler  
-Center for Environmental Research and Education  
+Civil and Environmental Engineering and Science  
 Office: Fisher 333A  
 Lab: Fisher 339A  
 
@@ -59,25 +59,12 @@ All policies for the instructor apply to this course: [https://hydro-lab.github.
 
 ### Tentaitve Schedule  
 
-|Day	                   |Activity                                                                 |Lodging       |Assignment |  
-|------------------------|-------------------------------------------------------------------------|--------------|-----------|  
-|Wednesday, 17 July 2024 |Depart US                                                                |Air	          |           |  
-|Thursday                |Arrive Johannesburg, South Africa                                        |Johannesburgh |           |  
-|Friday	                 |Travel to Kruger, orientation, and lab notebooks and data management     |Skukuza       |Reflection on Born a Crime |  
-|Saturday	               |GIS and Excel crash course, Ecosystem services                           |Skukuza       |                           |  
-|Sunday                  |Conservation and endangered species                                      |Skukuza       |History (in preparation for timeline assignment)|  
-|Monday                  |Wetland delineation	                                                     |Skukuza	      |                                                |  
-|Tuesday                 |Water policy in South Africa	                                           |Skukuza       |Summary of South African water resources law    |  
-|Wednesday, 24 July 2024 |Visit supersite                                                          |Skukuza       |                                                |  
-|Thursday                |Water quality and river flow measurement, Return to Skukuza              |Skukuza       |Project proposals                               |  
-|Friday                  |Kruger project work                                                      |Skukuza       |                                                |  
-|Saturday                |Macroinvertebrate survey, Kruger project work                            |Skukuza       |Wetland delineation lab report                  |  
-|Sunday                  |Kruger project work                                                      |Skukuza       |                                                |  
-|Monday                  |Kruger project work                                                      |Skukuza       |South Africa history timeline activity          |  
-|Tuesday                 |Kruger project work                                                      |Skukuza       |                                                |  
-|Wednesday, 31 July 2024 |Kruger project work                                                      |Skukuza       |Project report                                  |  
-|Thursday	               |Travel to Shingwedzi, traditional leadership with Chief Lucas, Tshandama |Shingwedzi    |                                                |  
-|Friday                  |Venda region                                                             |Shingwedzi    |                                                |  
-|Saturday	               |[Apartheid Museum](https://www.apartheidmuseum.org/), [Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves) |Pretoria |           |  
-|Sunday	                 |Departure                                                                |Air           |Course reflection                               |  
+|Day	                    |Activity                                                                 |Lodging       |  
+|------------------------|-------------------------------------------------------------------------|--------------|  
+|Wednesday, 17 June 2026 |Depart US                                                                |Air	         |  
+|Thursday                |Arrive Johannesburg, South Africa                                        |Johannesburg  |  
+|Friday and Saturday     |[Apartheid Museum](https://www.apartheidmuseum.org/), [Cradle of Humankind UNESCO Site](https://www.maropeng.co.za/content/page/sterkfontein-caves)                                  |Pretoria      |  
+|21 June to 02 July      |Coursework at Kruger National Park                                       |Skukuza       |  
+|Sunday 02 July          |Travel to University of Venda                                            |Thohoyandou   |  
+|Sunday	               |Departure                                                                |Air           |  
 
