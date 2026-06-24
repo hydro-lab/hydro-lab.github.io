@@ -191,18 +191,26 @@
 
     <!-- Top Navigation Bar -->
     <header>
-        <div class="nav-container">
-            <a href="#research" class="logo">Kahler Lab</a>
-            <nav>
-                <a href="#research">Research</a>
-                <a href="#people">People</a>
-                <a href="#teaching">Teaching</a>
-                <!-- Opens in new tab as requested -->
-                <a href="https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Publications ↗</a>
-            </nav>
-        </div>
-    </header>
+    <div class="nav-container">
+        <input type="checkbox" id="menu-toggle" class="menu-checkbox">
+        
+        <label for="menu-toggle" class="hamburger-label">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
 
+        <a href="#research" class="logo">Kahler Lab</a>
+
+        <nav class="nav-links">
+            <a href="#research">Research</a>
+            <a href="#people">People</a>
+            <a href="#teaching">Teaching</a>
+            <a href="https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Publications ↗</a>
+        </nav>
+    </div>
+    </header>
+    
     <!-- Research / Home Section -->
     <section id="research" class="hero">
         <h2>Research</h2>
@@ -273,8 +281,8 @@
 
         <h3>Principal Investigator</h3>
         <div style="margin-bottom: 2rem;">
-            <h4>Dr. Your Name</h4>
-            <p>Associate Professor of Hydrology. My work focuses on environmental fluid dynamics, surface-subsurface interactions, and mentoring the next generation of environmental scientists.</p>
+            <h4>David Kahler</h4>
+            <p>Prof. Kahler teaches fundamental civil engineering and environmental science courses at Duquesne University.  My research is in hydrology, primarily for use in resource-limited cross-boundary contexts.</p>
         </div>
 
         <h3>Current Students</h3>
