@@ -1,0 +1,7 @@
+﻿filename,sample,concentration
+pp_pellets_full_filtered_6_24_26.txt,Full,1
+pp_pellets_half_filtered_6_24_26.txt,Half,0.5
+pp_pellets_fourth_filtered_6_24_26.txt,Quarter,0.25
+pp_pellets_eighth_filtered_6_24_26.txt,Eighth,0.125
+pp_pellets_sixteenth_filtered_6_24_26.txt,Sixteenth,0.0625
+pp_pellets_thirtysecond_filtered_6_24_26.txt,Thirty-second,0.03125
