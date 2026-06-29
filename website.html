@@ -101,13 +101,15 @@
     }
 
     /* 1. Show the hamburger trigger */
+    /* 1. Push the hamburger trigger to the right side */
     .hamburger-label {
         display: flex;
+        order: 2; /* Changed from 1 to 2 */
     }
 
-    /* 2. Push the lab logo to the right side */
+    /* 2. Keep the lab logo on the left side */
     .logo {
-        order: 2; 
+        order: 1; /* Changed from 2 to 1 */
     }
 
     /* 3. Re-shape navigation links into a hidden dropdown menu */
