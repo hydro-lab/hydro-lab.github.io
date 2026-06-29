@@ -38,6 +38,53 @@
             border-bottom: 1px solid var(--border);
             z-index: 1000;
         }
+        
+        /* --- JOIN BOX LINK STYLING --- */
+.lnk {
+    color: var(--text);
+    text-decoration: underline;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.lnk:hover {
+    color: var(--accent); /* Smoothly shifts to your accent color on hover */
+}
+
+/* Container for the action buttons */
+.action-button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem; /* Generous spacing between buttons on desktop */
+    margin: 2rem 0;
+    width: 100%;
+}
+
+/* Base button appearance */
+.inline-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.8rem 1.8rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-align: center;
+    
+    /* Primary Style Default: Solid dark background */
+    background-color: transparent;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+}
+
+.inline-button:hover {
+    background-color: var(--accent);
+    border-color: var(--accent);
+    color: #ffffff;
+}
 
 /* --- UPDATED HEADER & FIXED NAVIGATION SYSTEM --- */
 
@@ -150,6 +197,18 @@
     /* Hide the horizontal pipes on mobile screens */
     .footer-divider {
         display: none;
+    }
+    
+    /* Stack the action buttons vertically on phone screens */
+    .action-button-container {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 1rem;
+    }
+
+    .inline-button {
+        width: 100%; /* Spreads buttons out to equal, full widths on mobile */
+        box-sizing: border-box;
     }
 
     /* 4. The Functional Magic: When checkbox is checked, reveal the menu */
@@ -350,36 +409,25 @@ footer {
             </div>
         </div>
         
-        <h3>Facilities</h3>
-        <div class="project-grid">
-            <!-- Weather Station -->
-            <div class="project-card">
-                <img src="mellon_station.jpg" alt="Weather station installation" class="project-img">
-                <div>
-                    <h4>Weather Station</h4>
-                    <p>We host two <a hfef="weather.html">weather stations</a> on Duquesne's campus with publically availalbe data.</p>
-                </div>
-            </div>
-            
-            <!-- Labs -->
-            <div class="project-card">
-                <img src="project2.jpg" alt="Water samples being processed in a chemistry lab environment" class="project-img">
-                <div>
-                    <h4>Water Quality Dynamics</h4>
-                    <p>Investigating the physical-chemical drivers influencing water body health, specifically tracking changes in particulate suspension and nutrient spikes over time.</p>
-                </div>
-            </div>
-        </div>
-
-        
         <!-- Prospective Student Action Call -->
         <div class="join-box">
             <strong>Interested in joining us?</strong>
             <h4>Graduate Students</h4>
-            <p>Graduate admissions are handled at the department level.  There is a central application website, but there are specific requirements for the <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/graduate-programs/ms-in-environmental-science-and-management.php" target="_blank" rel="noopener noreferrer">Environmental Science and Management</a> degree (M.S.).  Please contact the department for guidance.  There are several tracks from which to choose.  Students who wish to complete a Master's Thesis should find a potential research topic as soon as possible.  The best way to do this is to look at the research currently conducted and faculty research interests for a match.  Students should contact potential research supervisors as early as possible - even before they apply if reasonable.</p>
+            <p>Graduate admissions are handled at the department level.  There is a central application website, but there are specific requirements for the <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/graduate-programs/ms-in-environmental-science-and-management.php" target="_blank" rel="noopener noreferrer" class="lnk">Environmental Science and Management</a> degree (M.S.).  Please contact the department for guidance.  There are several tracks from which to choose.  Students who wish to complete a Master's Thesis should find a potential research topic as soon as possible.  The best way to do this is to look at the research currently conducted and faculty research interests for a match.  Students should contact potential research supervisors as early as possible - even before they apply if reasonable.</p>
             <p>International students should also take care to contact potential supervisors early.  Please note that Duquesne's aggressive e-mail filter blocks (either outright or puts in "junk mail") the vast majority of e-mail from outside the United States.  It may be helpful to contact potential supervisors via social media (e.g., LinkedIn or ResearchGate).</p>
             <a href="mailto:kahlerd@duq.edu" target="_blank" rel="noopener noreferrer" class="btn">Email Prof. Kahler ↗</a>
         </div>
+        
+        <h3>Facilities</h3>
+        <!-- Action Buttons for Lab Facilities and Data -->
+<div class="action-button-container">
+    <a href="weather.html" target="_blank" class="inline-button">
+        Duquesne Weather Station
+    </a>
+    <a href="facilities.html" target="_blank" class="inline-button">
+        Department Lab Facilities
+    </a>
+</div>
         
     </section>
 
