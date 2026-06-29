@@ -56,7 +56,7 @@
     font-size: 1.2rem;
     color: var(--primary);
     text-decoration: none;
-    order: 1; /* Keeps logo on the left on desktop */
+    order: 0; /* Keeps logo on the left on desktop */
 }
 
 .nav-links a {
@@ -71,19 +71,10 @@
     color: var(--accent);
 }
 
-/* Hide the invisible switch toggle entirely from view */
-.menu-checkbox {
-    display: none;
-}
-
-/* Hide hamburger lines by default on desktop screens */
+/* Tell desktop layout to completely ignore the mobile checkbox elements */
+.menu-checkbox, 
 .hamburger-label {
     display: none;
-    cursor: pointer;
-    flex-direction: column;
-    gap: 5px;
-    width: 24px;
-    order: 2; /* Pushes hamburger to the left on mobile */
 }
 
 .hamburger-label span {
