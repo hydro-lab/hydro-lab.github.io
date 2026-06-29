@@ -237,15 +237,36 @@
             color: #718096;
         }
 
-        /* Footer */
-        footer {
-            background: var(--bg-light);
-            text-align: center;
-            padding: 3rem 2rem;
-            font-size: 0.9rem;
-            color: #718096;
-            border-top: 1px solid var(--border);
-        }
+
+        /* --- FOOTER STYLING --- */
+footer {
+    background-color: #f7fafc; /* Subtle light gray background */
+    padding: 3rem 2rem;
+    font-size: 0.9rem;
+     color: #718096;
+    text-align: center;
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+}
+
+/* Force the links to look like normal text */
+.footer-link {
+    color: var(--text); /* Uses your main charcoal/body text color */
+    text-decoration: none; /* Removes the default line underneath */
+    transition: color 0.2s ease;
+}
+
+/* Subtle feedback when someone hovers over the link */
+.footer-link:hover {
+    color: var(--accent); /* Gently shifts to your accent color on hover */
+    text-decoration: underline; /* Optional: adds underline ONLY on hover */
+}
+
+.copyright {
+    font-size: 0.85rem;
+    color: #718096; /* Muted gray for the copyright line */
+    margin-top: 0.5rem;
+}
 
         /* Responsive Tweaks */
         @media (max-width: 768px) {
@@ -384,9 +405,16 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Hydrology Research Group &bull; Your Department &bull; Your University</p>
-        <p>Hosted proudly on GitHub Pages</p>
-    </footer>
+    <div class="footer-container">
+        <p>
+            <a href="#research" class="footer-link">Kahler Lab</a> | 
+            <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/index.php" target="_blank" rel="noopener noreferrer" class="footer-link">Civil and Environmental Engineering and Science</a> | 
+            <a href = "https://www.duq.edu/" target="_blank" rel="noopener noreferrer">Duquesne University</a>
+        </p>
+        <p class="copyright">&copy; 2026 Kahler Lab. All rights reserved.</p>
+        <p>Created with the assistance of Google Gemini, hosted on GitHub Pages</p>
+    </div>
+</footer>
 
 </body>
 </html>
