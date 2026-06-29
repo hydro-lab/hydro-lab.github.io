@@ -84,6 +84,18 @@
     border-radius: 2px;
 }
 
+.footer-links-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap; /* Allows wrapping gracefully if text is long */
+}
+
+.footer-divider {
+    color: var(--border);
+    padding: 0 0.25rem;
+}
 
 /* --- MOBILE-SPECIFIC STYLES (Screens under 768px wide) --- */
 @media (max-width: 768px) {
@@ -127,6 +139,17 @@
         padding: 1rem 2rem;
         display: block;
         border-bottom: 1px solid #f7fafc;
+    }
+    
+    /* Stack the long footer links cleanly on phones */
+    .footer-links-row {
+        flex-direction: column;
+        gap: 0.75rem; /* Adds comfortable vertical spacing between stacked links */
+    }
+
+    /* Hide the horizontal pipes on mobile screens */
+    .footer-divider {
+        display: none;
     }
 
     /* 4. The Functional Magic: When checkbox is checked, reveal the menu */
@@ -406,9 +429,11 @@ footer {
     <!-- Footer -->
     <footer>
     <div class="footer-container">
-        <p>
-            <a href="#research" class="footer-link">Kahler Lab</a> | 
-            <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/index.php" target="_blank" rel="noopener noreferrer" class="footer-link">Civil and Environmental Engineering and Science</a> | 
+        <p class="footer-links-row">
+            <a href="#research" class="footer-link">Kahler Lab</a>
+            <span class="footer-divider">|</span>
+            <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/index.php" target="_blank" rel="noopener noreferrer" class="footer-link">Civil and Environmental Engineering and Science</a>
+            <span class="footer-divider">|</span>
             <a href = "https://www.duq.edu/" target="_blank" rel="noopener noreferrer" class="footer-link">Duquesne University</a>
         </p>
         <p class="copyright">&copy; 2026 Kahler Lab. All rights reserved.</p>
