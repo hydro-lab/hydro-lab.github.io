@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hydrology Research Group</title>
+    <style>
+        /* Modern Minimalist Reset & Variables */
+        :root {
+            --primary: #1a365d; /* Deep water blue */
+            --accent: #2b6cb0;  /* Vibrant slate blue */
+            --text: #2d3748;    /* Charcoal text for readability */
+            --bg-light: #f7fafc;/* Off-white background */
+            --border: #e2e8f0;
+        }
+        
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            line-height: 1.7;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        /* Sticky Top Navigation Bar */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(5px);
+            border-bottom: 1px solid var(--border);
+            z-index: 1000;
+        }
+/* --- UPDATED HEADER & FIXED NAVIGATION SYSTEM --- */
+
+/* Base container for desktop layout */
+.nav-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--primary);
+    text-decoration: none;
+    order: 1; /* Keeps logo on the left on desktop */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text);
+    font-weight: 500;
+    margin-left: 2rem;
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: var(--accent);
+}
+
+/* Hide the invisible switch toggle entirely from view */
+.menu-checkbox {
+    display: none;
+}
+
+/* Hide hamburger lines by default on desktop screens */
+.hamburger-label {
+    display: none;
+    cursor: pointer;
+    flex-direction: column;
+    gap: 5px;
+    width: 24px;
+    order: 1; /* Pushes hamburger to the left on mobile */
+}
+
+.hamburger-label span {
+    background-color: var(--primary);
+    height: 3px;
+    width: 100%;
+    border-radius: 2px;
+}
+
+
+/* --- MOBILE-SPECIFIC STYLES (Screens under 768px wide) --- */
+@media (max-width: 768px) {
+    .nav-container {
+        padding: 1rem;
+    }
+
+    /* 1. Show the hamburger trigger */
+    .hamburger-label {
+        display: flex;
+    }
+
+    /* 2. Push the lab logo to the right side */
+    .logo {
+        order: 2; 
+    }
+
+    /* 3. Re-shape navigation links into a hidden dropdown menu */
+    .nav-links {
+        display: none; /* Hidden by default */
+        position: absolute;
+        top: 100%; /* Sits directly below the navigation bar border */
+        left: 0;
+        right: 0;
+        background: #ffffff;
+        border-bottom: 1px solid var(--border);
+        flex-direction: column;
+        padding: 1rem 0;
+        box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    }
+
+    .nav-links a {
+        margin: 0;
+        padding: 1rem 2rem;
+        display: block;
+        border-bottom: 1px solid #f7fafc;
+    }
+
+    /* 4. The Functional Magic: When checkbox is checked, reveal the menu */
+    .menu-checkbox:checked ~ .nav-links {
+        display: flex;
+    }
+}
+        .nav-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+        }
+
+        .logo {
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 500;
+            margin-left: 2rem;
+            transition: color 0.2s ease;
+        }
+
+        nav a:hover {
+            color: var(--accent);
+        }
+
+        /* Layout Structure */
+        section {
+            padding: 6rem 2rem 4rem 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            border-bottom: 1px solid var(--border);
+        }
+
+        section:last-of-type {
+            border-bottom: none;
+        }
+
+        h2 {
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+        }
+
+        /* Hero & Join Lab Callout */
+        .hero {
+            padding-top: 8rem;
+        }
+
+        .join-box {
+            background-color: var(--bg-light);
+            border-left: 4px solid var(--accent);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 4px 4px 0;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--primary);
+            color: white;
+            padding: 0.6rem 1.2rem;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+            margin-top: 0.5rem;
+            transition: background 0.2s;
+        }
+
+        .btn:hover {
+            background-color: var(--accent);
+        }
+
+        /* Project Cards Grid */
+        .project-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .project-card {
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
+        }
+
+        .project-img {
+            width: 180px;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 6px;
+            background-color: var(--border);
+        }
+
+        /* People Section (Group Photo Focus) */
+        .group-photo-container {
+            margin-bottom: 2rem;
+        }
+
+        .group-photo {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+        }
+
+        .roster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .person-info h4 {
+            margin: 0 0 0.2rem 0;
+            color: var(--primary);
+        }
+
+        .person-info p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: #718096;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--bg-light);
+            text-align: center;
+            padding: 3rem 2rem;
+            font-size: 0.9rem;
+            color: #718096;
+            border-top: 1px solid var(--border);
+        }
+
+        /* Responsive Tweaks */
+        @media (max-width: 768px) {
+            .nav-container { flex-direction: column; gap: 1rem; }
+            nav a { margin: 0 0.75rem; }
+            .project-card { flex-direction: column; }
+            .project-img { width: 100%; height: 180px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Navigation Bar -->
+    <header>
+    <div class="nav-container">
+        <input type="checkbox" id="menu-toggle" class="menu-checkbox">
+        
+        <label for="menu-toggle" class="hamburger-label">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+
+        <a href="#research" class="logo">Kahler Lab</a>
+
+        <nav class="nav-links">
+            <a href="#research">Research</a>
+            <a href="#people">People</a>
+            <a href="#teaching">Teaching</a>
+            <a href="https://scholar.google.com/citations?user=cbFRZZ0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Publications ↗</a>
+        </nav>
+    </div>
+    </header>
+    
+    <!-- Research / Home Section -->
+    <section id="research" class="hero">
+        <h2>Research</h2>
+        <p>We study many aspects of water resources in lots of different settings.  We have a special focus on resource-limited environments and challenges that include human and economic limitations.</p>
+
+        <h3>Key Projects</h3>
+        <div class="project-grid">
+            <!-- Project 1 -->
+            <div class="project-card">
+                <img src="project1.jpg" alt="Field monitoring equipment in a local watershed" class="project-img">
+                <div>
+                    <h4>Catchment Hydrodynamics</h4>
+                    <p>Analyzing subsurface water flow patterns and solute transport using high-resolution spatial modeling and tracer techniques to map water vulnerability metrics.</p>
+                </div>
+            </div>
+            
+            <!-- Project 2 -->
+            <div class="project-card">
+                <img src="project2.jpg" alt="Water samples being processed in a chemistry lab environment" class="project-img">
+                <div>
+                    <h4>Water Quality Dynamics</h4>
+                    <p>Investigating the physical-chemical drivers influencing water body health, specifically tracking changes in particulate suspension and nutrient spikes over time.</p>
+                </div>
+            </div>
+        </div>
+        
+        <h3>Facilities</h3>
+        <div class="project-grid">
+            <!-- Weather Station -->
+            <div class="project-card">
+                <img src="mellon_station.jpg" alt="Weather station installation" class="project-img">
+                <div>
+                    <h4>Weather Station</h4>
+                    <p>We host two <a hfef="weather.html">weather stations</a> on Duquesne's campus with publically availalbe data.</p>
+                </div>
+            </div>
+            
+            <!-- Labs -->
+            <div class="project-card">
+                <img src="project2.jpg" alt="Water samples being processed in a chemistry lab environment" class="project-img">
+                <div>
+                    <h4>Water Quality Dynamics</h4>
+                    <p>Investigating the physical-chemical drivers influencing water body health, specifically tracking changes in particulate suspension and nutrient spikes over time.</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <!-- Prospective Student Action Call -->
+        <div class="join-box">
+            <strong>Interested in joining us?</strong>
+            <h4>Graduate Students</h4>
+            <p>Graduate admissions are handled at the department level.  There is a central application website, but there are specific requirements for the <a href="https://www.duq.edu/academics/colleges-and-schools/science-and-engineering/academics/departments-and-programs/cere/graduate-programs/ms-in-environmental-science-and-management.php" target="_blank" rel="noopener noreferrer">Environmental Science and Management</a> degree (M.S.).  Please contact the department for guidance.  There are several tracks from which to choose.  Students who wish to complete a Master's Thesis should find a potential research topic as soon as possible.  The best way to do this is to look at the research currently conducted and faculty research interests for a match.  Students should contact potential research supervisors as early as possible - even before they apply if reasonable.</p>
+            <p>International students should also take care to contact potential supervisors early.  Please note that Duquesne's aggressive e-mail filter blocks (either outright or puts in "junk mail") the vast majority of e-mail from outside the United States.  It may be helpful to contact potential supervisors via social media (e.g., LinkedIn or ResearchGate).</p>
+            <a href="mailto:kahlerd@duq.edu" target="_blank" rel="noopener noreferrer" class="btn">Email Prof. Kahler ↗</a>
+        </div>
+        
+    </section>
+
+    <!-- People Section (Condensed & Unified) -->
+    <section id="people">
+        <h2>Our Team</h2>
+        
+        <div class="group-photo-container">
+            <!-- Replace with your actual group photo path -->
+            <img src="group-photo.jpg" alt="Hydrology Research Lab Group photo taken at the field site" class="group-photo">
+        </div>
+
+        <h3>Principal Investigator</h3>
+        <div style="margin-bottom: 2rem;">
+            <h4>David Kahler</h4>
+            <p>Prof. Kahler teaches fundamental civil engineering and environmental science courses at Duquesne University.  My research is in hydrology, primarily for use in resource-limited cross-boundary contexts.</p>
+        </div>
+
+        <h3>Current Students</h3>
+        <div class="roster-grid">
+            <div class="person-info">
+                <h4>Jane Doe</h4>
+                <p>Ph.D. Candidate — Catchment Modeling</p>
+            </div>
+            <div class="person-info">
+                <h4>John Smith</h4>
+                <p>M.S. Student — Solute Transport</p>
+            </div>
+            <div class="person-info">
+                <h4>Alex Wong</h4>
+                <p>Undergraduate Researcher — Field Data Collection</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Teaching Section -->
+    <section id="teaching">
+        <h2>Teaching & Mentorship</h2>
+        <p>Education is core to our lab's mission. I teach core and elective courses structured to build practical fieldwork skills and robust computational analysis foundations:</p>
+        <ul>
+            <li><strong>HYDRO 401:</strong> Introduction to Catchment Hydrology (Fall)</li>
+            <li><strong>HYDRO 510:</strong> Advanced Environmental Fluid Dynamics (Spring)</li>
+            <li><strong>ENV 302:</strong> Water Quality Analytical Methods (Spring)</li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Hydrology Research Group &bull; Your Department &bull; Your University</p>
+        <p>Hosted proudly on GitHub Pages</p>
+    </footer>
+
+</body>
+</html>
