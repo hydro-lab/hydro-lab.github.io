@@ -96,8 +96,11 @@
 
 /* --- MOBILE-SPECIFIC STYLES (Screens under 768px wide) --- */
 @media (max-width: 768px) {
-    .nav-container {
+     .nav-container {
         padding: 1rem;
+        display: flex; /* Forces items onto the same horizontal row */
+        justify-content: space-between; /* Pushes item 1 to left, item 2 to right */
+        width: auto;
     }
 
     /* 1. Show the hamburger trigger */
