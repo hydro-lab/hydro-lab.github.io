@@ -83,7 +83,7 @@
     flex-direction: column;
     gap: 5px;
     width: 24px;
-    order: 1; /* Pushes hamburger to the left on mobile */
+    order: 2; /* Pushes hamburger to the left on mobile */
 }
 
 .hamburger-label span {
@@ -97,10 +97,12 @@
 /* --- MOBILE-SPECIFIC STYLES (Screens under 768px wide) --- */
 @media (max-width: 768px) {
      .nav-container {
-        padding: 1rem;
-        display: flex; /* Forces items onto the same horizontal row */
-        justify-content: space-between; /* Pushes item 1 to left, item 2 to right */
-        width: auto;
+        padding: 1rem 2rem;
+        display: flex !important;      /* Force row layout, no exceptions */
+        flex-direction: row !important; /* Lock items horizontally */
+        justify-content: space-between; /* Hard push to left and right walls */
+        align-items: center;            /* Center them perfectly vertically */
+        width: calc(100% - 4rem);       /* Prevent spilling off screen edges */
     }
 
     /* 1. Show the hamburger trigger */
