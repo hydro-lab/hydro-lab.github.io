@@ -117,17 +117,26 @@
     }
 
     /* Tell desktop layout to completely ignore mobile menu controls */
-    .menu-checkbox, 
-    .hamburger-label {
-        display: none;
-    }
+    /* Tell desktop layout to completely ignore mobile menu controls */
+     .menu-checkbox {
+          display: none;
+     }
 
-    .hamburger-label span {
-        background-color: var(--primary);
-        height: 3px;
-        width: 100%;
-        border-radius: 2px;
-    }
+     .hamburger-label {
+          display: none; /* Stays hidden on desktop */
+          flex-direction: column;
+          justify-content: space-between;
+          width: 24px;   /* Sets the physical width of the button click area */
+          height: 18px;  /* Sets the physical height of the button click area */
+          cursor: pointer;
+     }
+
+     .hamburger-label span {
+          background-color: var(--primary);
+          height: 3px;
+          width: 100%;
+          border-radius: 2px;
+     }
 
     /* --- FOOTER DESKTOP LINKS --- */
     .footer-links-row {
@@ -286,8 +295,8 @@
 
         /* 1. Show the hamburger trigger layout */
         .hamburger-label {
-            display: flex;
-            order: 1; /* Pushes button to right edge */
+             display: flex !important; /* Force visibility over the desktop hidden state */
+             order: 1; /* Pushes button to right edge */
         }
 
         /* 2. Lock lab logo layout placement */
